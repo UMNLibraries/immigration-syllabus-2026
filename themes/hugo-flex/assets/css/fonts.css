@@ -1,0 +1,41 @@
+/* Font faces
+@font-face {
+  font-family: 'Example';
+  src: url('../fonts/example.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+The fonts layer is loaded early to minimize front-end performance impact.
+*/
+
+
+@font-face {
+  font-family: 'Lora';
+  src: url(' fonts/lora-bold-webfont.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+    font-family: 'lorabold_italic';
+    src: url('../fonts/lora-bolditalic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+font-face {
+    font-family: 'loraitalic';
+    src: url('../fonts/lora-italic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+font-face {
+    font-family: 'loraregular';
+    src: url('../fonts/lora-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}

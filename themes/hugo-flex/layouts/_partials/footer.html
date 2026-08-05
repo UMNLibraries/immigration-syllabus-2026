@@ -1,0 +1,10 @@
+{{ with site.Params.footer }}
+  <footer class="Footer">
+    <div class="u-wrapper">
+      <div class="u-padding u-noboosting">
+        {{ safeHTML . }}
+        <a href="https://www.lib.umn.edu/about/privacy">Libraries Privacy Policy</a> | <a href="https://policy.umn.edu/it/itresources">Acceptable Use of IT Resources</a>
+      </div>
+    </div>
+  </footer>
+{{ end }}

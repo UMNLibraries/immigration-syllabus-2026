@@ -1,0 +1,67 @@
+baseURL = 'https://immigrationsyllabus.lib.umn.edu/'
+locale = 'en-us'
+title = 'Immigration Syllabus'
+theme = "hugo-flex"
+
+[params]
+color = "#7a0019"
+width = "69rem"
+divider = "\\2500\\2500"
+#footer = ''
+favicon = true
+noClasses = false
+katex = "0.16.22"
+headingoffset = 0
+linkicons = false
+summaries = false
+schema = true
+opengraph = true
+twittercards = true
+
+
+[markup.highlight]
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true
+[markup.goldmark.extensions.passthrough]
+enable = false
+
+  [markup.goldmark.extensions.passthrough.delimiters]
+  block = [ [ "\\[", "\\]" ], [ "$$", "$$" ] ]
+  inline = [ [ "\\(", "\\)" ] ]
+
+[[menu.main]]
+name = "About"
+pageRef = "/about"
+weight = 1
+
+[[menu.main]]
+name = "Weeks 1-2"
+pageRef = "/weeks-12"
+weight = 2
+
+[[menu.main]]
+name = "Weeks 3-6"
+pageRef = "/weeks-36"
+weight = 3
+
+[[menu.main]]
+name = "Week 7-8"
+pageRef = "/weeks-78"
+weight = 4
+
+[[menu.main]]
+name = "Week 9-11"
+pageRef = "/weeks-911"
+weight = 5
+
+[[menu.main]]
+name = "Week 12-15"
+pageRef = "/weeks-1215"
+weight = 6
+
+[[menu.main]]
+name = "Download"
+pageRef = "/download"
+weight = 7

@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'lorabold';
+    src: url('../fonts/lora-bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'lorabold_italic';
+    src: url('../fonts/lora-bolditalic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+font-face {
+    font-family: 'loraitalic';
+    src: url('../fonts/lora-italic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
+font-face {
+    font-family: 'loraregular';
+    src: url('../fonts/lora-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+
+}
