@@ -1,4 +1,5 @@
-baseURL = 'https://immigrationsyllabus.lib.umn.edu/'
+#baseURL = 'https://immigrationsyllabus.lib.umn.edu/'
+relativeURLs = true
 locale = 'en-us'
 title = 'Immigration Syllabus'
 theme = "hugo-flex"
@@ -38,27 +39,27 @@ weight = 1
 
 [[menu.main]]
 name = "Weeks 1-2"
-pageRef = "/weeks-12"
+pageRef = "/weeks-1-2"
 weight = 2
 
 [[menu.main]]
 name = "Weeks 3-6"
-pageRef = "/weeks-36"
+pageRef = "/weeks-3-6"
 weight = 3
 
 [[menu.main]]
 name = "Week 7-8"
-pageRef = "/weeks-78"
+pageRef = "/weeks-7-8"
 weight = 4
 
 [[menu.main]]
 name = "Week 9-11"
-pageRef = "/weeks-911"
+pageRef = "/weeks-9-11"
 weight = 5
 
 [[menu.main]]
 name = "Week 12-15"
-pageRef = "/weeks-1215"
+pageRef = "/weeks-12-15"
 weight = 6
 
 [[menu.main]]
