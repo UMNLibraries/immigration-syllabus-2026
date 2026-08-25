@@ -2,13 +2,13 @@
 
 # Download the \#ImmigrationSyllabus
 
-## 2026 Version
+## Revised 2026 #ImmigrationSyllabus
 
 - [PDF](/docs/is-2026.pdf)
 - [Word](/docs/is-2026.docx)
 - [Markdown](/docs/is-2026.md)
 - [Website](https://github.com/UMNLibraries/immigration-syllabus-2026)
 
-## 2017 Version
+## Original #ImmigrationSyllabus (2017)
 - [PDF](docs/is-2017.pdf)
 

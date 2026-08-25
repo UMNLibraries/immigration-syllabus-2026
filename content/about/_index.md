@@ -10,7 +10,7 @@ This revised and updated \#ImmigrationSyllabus was created by: Llana Barber, Rud
 
 Consultants included: Maddalena Marinari, Professor of History and the Dorothy Peterson, Mildred Peterson Hanson, and Arthur Jennings Hanson Endowed Professor of Liberal Studies, Gustavus Adolphus College; Yael Schacher, Director for Americas and Europe, Refugees International
 
-### 2017 Version
+### Original Version
 
 The original project was led by [Erika Lee](https://history.fas.harvard.edu/people/erika-lee), past Director of the Immigration History Research Center and currently Bae Family Professor of History, Radcliffe Alumnae Professor, and the Carl and Lily Pforzheimer Foundation Director Schlesinger Library on the History of Women in America. 
 
@@ -28,6 +28,10 @@ The project is published by the [University of Minnesota Libraries Publishing Se
 
 The 2017 version of the site can be viewed at [this link via the Internet Archive Wayback Machine](https://web.archive.org/web/20260517215222/https://immigrationsyllabus.lib.umn.edu/) and the 2017 PDF version is [also avaliable here](/docs/is-2017.pdf).
 
+### Suggested Citation Style
+
+Here is where we will but citation information!
+
 ### Image Credits
 
 - Main Page: Jonathan McIntosh - Own work, CC BY 2.5, (2006) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:May_Day_Immigration_March_LA09.jpg)
@@ -39,4 +43,4 @@ The 2017 version of the site can be viewed at [this link via the Internet Archiv
 
 ### License
 
-Except where otherwise noted, the content on this site is published under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Images maintain their original copyright/licensing as noted at the links above.
+Except where otherwise noted, the content on this site is published under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). Images maintain their original copyright/licensing as noted at the links above.
