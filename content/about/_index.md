@@ -30,7 +30,7 @@ The 2017 version of the site can be viewed at [this link via the Internet Archiv
 
 ### Suggested Citation Style
 
-Here is where we will but citation information!
+Here is where we will put citation information!
 
 ### Image Credits
 
