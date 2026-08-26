@@ -10,7 +10,7 @@ This revised and updated \#ImmigrationSyllabus was created by: Llana Barber, Rud
 
 Consultants included: Maddalena Marinari, Professor of History and the Dorothy Peterson, Mildred Peterson Hanson, and Arthur Jennings Hanson Endowed Professor of Liberal Studies, Gustavus Adolphus College; Yael Schacher, Director for Americas and Europe, Refugees International
 
-### Original Version
+### Original 2017 Version
 
 The original project was led by [Erika Lee](https://history.fas.harvard.edu/people/erika-lee), past Director of the Immigration History Research Center and currently Bae Family Professor of History, Radcliffe Alumnae Professor, and the Carl and Lily Pforzheimer Foundation Director Schlesinger Library on the History of Women in America. 
 
@@ -30,7 +30,9 @@ The 2017 version of the site can be viewed at [this link via the Internet Archiv
 
 ### Suggested Citation Style
 
-Here is where we will put citation information!
+\#ImmigrationSyllabus. Llana Barber, Carly Goodman, Hidetaka Hirota, et al. August 26, 2026. University of Minnesota Libraries Publishing. <a href="https://immigrationsyllabus.lib.umn.edu/" aria-label="Link to the Immigration Syllabus">https://immigrationsyllabus.lib.umn.edu/</a>.
+
+NEW: [Add the syllabus to your citation manager!](/docs/citation.bib)
 
 ### Image Credits
 
