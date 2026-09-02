@@ -1,5 +1,4 @@
-#baseURL = 'https://immigrationsyllabus.lib.umn.edu/'
-relativeURLs = true
+baseURL = 'https://immigrationsyllabus.lib.umn.edu/'
 locale = 'en-us'
 title = 'Immigration Syllabus'
 theme = "hugo-flex"
@@ -8,7 +7,6 @@ theme = "hugo-flex"
 color = "#7a0019"
 width = "69rem"
 divider = "\\2500\\2500"
-#footer = ''
 footer = 'Except where otherwise noted, content on this site is licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target=_blank>Creative Commons Attribution-NonCommercial 4.0 International License</a> <br />'
 favicon = true
 noClasses = false
