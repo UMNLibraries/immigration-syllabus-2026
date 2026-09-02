@@ -2,13 +2,13 @@ d<img src="/img/main.jpg" alt="a large crowd marches in a downtown area holding 
 
 # Download the \#ImmigrationSyllabus
 
-## Revised 2026 #ImmigrationSyllabus
+## Revised and Updated \#ImmigrationSyllabus (2026)
 
 - [PDF](/docs/is-2026.pdf)
 - [Word](/docs/is-2026.docx)
 - [Markdown](/docs/is-2026.md)
 - [Website](https://github.com/UMNLibraries/immigration-syllabus-2026)
 
-## Original #ImmigrationSyllabus (2017)
+## Original \#ImmigrationSyllabus (2017)
 - [PDF](/docs/is-2017.pdf)
 
