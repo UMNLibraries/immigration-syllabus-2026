@@ -1,4 +1,4 @@
-<img src="/img/weeks12.jpg" style="max-width: 100vw;" alt="an etching of the Statue of Liberty with the phrase 'americans all, immigrants all'">
+<img src="/img/weeks12.jpg" alt="an etching of the Statue of Liberty with the phrase 'americans all, immigrants all'">
 
 ## Week 1: Foundations
 
@@ -39,6 +39,8 @@ The United States is home to the world’s largest population of foreign-born pe
 * [America’s Great Migration Project](https://depts.washington.edu/moving1/), Civil Rights and Labor History Consortium, University of Washington (digital history)
 * [*The 1619 Project* Curriculum](https://pulitzercenter.org/lesson-plan-grouping/1619-project-curriculum), Pulitzer Center (teaching resources)
 * [250 Years of Immigrant Stories](https://sites.google.com/umd.edu/250immigrantstories/home), Center for Global Migration Studies and Immigration and Ethnic History Society (podcast series)
+
+-------
 
 ## Week 2: Expansion
 From the colonial period through the nineteenth century, North America received immigrants from multiple parts of the world. Europeans remained the numerical majority, but immigrants also came from Asia and Latin America, contributing to the racial, ethnic, cultural, and religious diversity of American society. The growing diversity of people in the United States led to questions of who should be considered US citizens and members in American society. These questions were complicated by the United States’ territorial expansion, which was accompanied by the dispossession of Native Americans and the incorporation of Mexicans into the American polity as a conquered population. The debate over slavery also shaped the ways white Americans viewed Chinese immigrants, who were considered comparable to slaves as unfree “coolie” workers. The status and perception of immigrants in the United States were deeply intertwined with territorial expansion, settler colonialism, and slavery, and these histories are thus essential to understanding US immigration history. 

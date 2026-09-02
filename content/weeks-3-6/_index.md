@@ -1,4 +1,4 @@
-<center><img src="/img/weeks36.jpg" style="max-width: 100vw;" alt="Public Health Service physicians checking immigrants arriving to the United States for signs of illness."></center>
+<center><img src="/img/weeks36.jpg" alt="Public Health Service physicians checking immigrants arriving to the United States for signs of illness."></center>
 
 ## Week 3: Nativism
 The arrival of immigrants in growing numbers during the nineteenth century was met with a rising tide of nativism, as previous generations of settlers reimagined themselves as native to the United States and thereby entitled to distinct privileges. Hostility to immigrants was expressed in diverse forms, including anti-foreigner political movements, anti-Catholicism, private violence, and claims that particular groups of immigrants were forever “alien” and would never assimilate into American society. Nativist sentiments in this period triggered the introduction of state and federal laws to restrict the immigration of Black people, the poor, and Chinese laborers. These laws were driven by the ideas that undesirable, inferior foreigners were threatening Americans and that the United States had the right to protect itself from foreign threats. While nativism persists, this section focuses on nativist movements and laws introduced in the nineteenth century, which laid many of the ideological and legal foundations for modern U.S. immigration policy. 
@@ -31,6 +31,8 @@ The arrival of immigrants in growing numbers during the nineteenth century was m
 * Irene Hsu “[The Echoes of Chinese Exclusion](https://newrepublic.com/article/149437/echoes-chinese-exclusion),” *The New Republic*, June 28, 2018(public-facing article)
 * Hector Alejandro Arzate, “[Chinese Immigrants Were Forced Out of Eureka in 1885 – Here’s How Locals Are Making That History Known](https://www.kqed.org/news/11891987/chinese-immigrants-were-forced-out-of-eureka-in-1885-heres-how-locals-are-making-that-history-known),” *KQED*, October 15, 2021 (public-facing article)
 * [Irish Stereotype](https://thomasnastcartoons.com/irish-catholic-cartoons/irish-stereotype/), Thomas Nast Cartoons (digital history)
+
+-------
 
 ## Week 4: Mass Migration
 
@@ -67,6 +69,7 @@ Beginning in the 1890s, an expanding and industrializing United States experienc
 * [The Great Migration](https://dp.la/primary-source-sets/the-great-migration), Digital Public Library of America (primary source set)
 * [Immigration and Americanization, 1880-1930](https://dp.la/primary-source-sets/immigration-and-americanization-1880-1930), Digital Public Library of America (primary source set)
 
+-------
 
 ## Week 5: Restriction
 Growing xenophobia and entrenched ideas of immigrants’ racial inferiority led the federal government to pass a series of restrictive immigration laws in the late 19th and early 20th centuries. The Page Act of 1875, the Chinese Exclusion Act of 1882, and the general Immigration Act of 1882 marked the expansion of federal immigration control. By the early 20th century, US immigration law prohibited the admission of an array of foreigners: Chinese laborers, those with mental illnesses or contagious diseases, people likely to become public charges, those with criminal convictions, and other immigrants deemed “undesirable.” The Immigration Act of 1917 excluded immigrants from an “Asiatic barred zone” and required all immigrants to pass a literacy test. The growing legal architecture of exclusion culminated in the Immigration Act of 1924, also known as the Johnson-Reed Act, which created a national-origins quota system that dramatically reduced southern and eastern European immigration and virtually suspended all Asian immigration. Mexican immigrants (and others from independent nations in the Western Hemisphere) did not face numerical restrictions in the 1924 legislation, as lobbyists successfully argued that Mexican labor was essential to the agricultural industry, but the administrative systems developed to enforce immigration restriction significantly impacted migrants from Mexico and elsewhere in Latin America and the Caribbean. 
@@ -103,6 +106,7 @@ Growing xenophobia and entrenched ideas of immigrants’ racial inferiority led 
 * [14: Dred Scott, Wong Kim Ark, and Vanessa Lopez](https://14themovie.com/) (documentary)
 * [Dollar a Day, Ten Cents a Dance](https://vimeo.com/45513418) (documentary)
 
+-------
 
 ## Week 6: Empire
 Empire – the exercise of one nation’s power and influence in ways that shape hierarchies of belonging and exert control over the peoples, places, and resources of other nations – has long influenced the role of the United States in the wider world and the ways people have moved through it. The arrival of settlers from Europe played a pivotal role in continental expansion in the United States and the dispossession of Indigenous peoples that made it possible. Competition for natural resources between the United States and other global empires shaped labor migrations within and beyond American borders. The US acquisition of foreign territories moved the nation’s borders across people and moved people across borders. And the intervention of the United States in the affairs of other countries has led to mass displacement – raising difficult questions about the country’s obligation to welcome immigrants and refugees whose reasons for leaving their homes have been shaped by U.S. imperialism. 

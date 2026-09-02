@@ -1,4 +1,4 @@
-<img src="/img/main.jpg" alt="a large crowd marches in a downtown area holding a banner that says '1 Nation...Justice for All'"  style="max-width: 100vw; height: auto;">
+<img src="/img/main.jpg" alt="a large crowd marches in a downtown area holding a banner that says '1 Nation...Justice for All'">
 
 # Download the \#ImmigrationSyllabus
 
