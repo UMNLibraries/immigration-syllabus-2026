@@ -1,4 +1,4 @@
-<img src="/img/weeks12.jpg" alt="an etching of the Statue of Liberty with the phrase 'americans all, immigrants all'">
+<img src="/img/weeks12.jpg" style="max-width: 100vw;" alt="an etching of the Statue of Liberty with the phrase 'americans all, immigrants all'">
 
 ## Week 1: Foundations
 

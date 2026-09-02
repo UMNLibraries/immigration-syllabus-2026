@@ -7,10 +7,17 @@ body {
   min-height: 100svh;
   margin: 0;
   padding: 0;
+  color: #434343;
+  font-size: 14pt;
 }
 
 main {
   flex-grow: 1;
+}
+
+.break-after::after {
+  content: "\A";
+  white-space: pre;
 }
 
 img {
