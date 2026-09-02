@@ -48,8 +48,8 @@ Thomas Paine’s aspirational invocation of the United States as an “asylum fo
 * Melissa May Borja, *Follow the New Way: American Refugee Resettlement Policy and Hmong Religious Change* (2023)
 * Carl J. Bon Tempo, *Americans at the Gate: The United States and Refugees during the Cold War* (2008)
 * Julio Capó Jr, “Queering Mariel: Mediating Cold War Foreign Policy and U.S. Citizenship among Cuba's Homosexual Exile Community, 1978-1994,” *Journal of American Ethnic History* 29, no. 4 (Summer 2010): 78-106
-* Yến Lê Espiritu, *Body Counts: The Vietnam War and Militarized Refuge(es)* (2014)
-* Yến Lê Espiritu et al., *Departures An Introduction to Critical Refugee Studies* (2022)
+* Y&#x1EBF;n Lê Espiritu, *Body Counts: The Vietnam War and Militarized Refuge(es)* (2014)
+* Y&#x1EBF;n Lê Espiritu et al., *Departures An Introduction to Critical Refugee Studies* (2022)
 * David FitzGerald, *Refuge Beyond Reach: How Rich Democracies Repel Asylum Seekers* (2019)
 * María Cristina García, *Havana USA: Cuban Exiles and Cuban Americans in South Florida, 1959–1994* (1996)
 * María Cristina García, *The Refugee Challenge in Post–Cold War America* (2017)
