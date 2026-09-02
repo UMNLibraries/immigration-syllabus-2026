@@ -28,13 +28,13 @@ The project is published by the [University of Minnesota Libraries Publishing Se
 
 ### 2017 Website
 
-The 2017 version of the site can be viewed at [this link via the Internet Archive Wayback Machine](https://web.archive.org/web/20260517215222/https://immigrationsyllabus.lib.umn.edu/) and the 2017 PDF version is [also available here](../static/docs/is-2017.pdf).
+The 2017 version of the site can be viewed at [this link via the Internet Archive Wayback Machine](https://web.archive.org/web/20260517215222/https://immigrationsyllabus.lib.umn.edu/) and the 2017 PDF version is [also available here](/docs/is-2017.pdf).
 
 ### Suggested Citation Style
 
 \#ImmigrationSyllabus. Llana Barber, Carly Goodman, Hidetaka Hirota, et al. August 26, 2026. University of Minnesota Libraries Publishing. <a href="https://immigrationsyllabus.lib.umn.edu/" aria-label="Link to the Immigration Syllabus">https://immigrationsyllabus.lib.umn.edu/</a>.
 
-You can also <a href="/static/docs/citation.bib" download="citation.bib">add the syllabus to your citation manager</a> (Zotero, EndNote, etc.).
+You can also <a href="/docs/citation.bib" download="citation.bib">add the syllabus to your citation manager</a> (Zotero, EndNote, etc.).
 
 ### Image Credits
 

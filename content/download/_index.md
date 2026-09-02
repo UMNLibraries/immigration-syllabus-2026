@@ -1,14 +1,14 @@
-<img src="/img/main.jpg" alt="a large crowd marches in a downtown area holding a banner that says '1 Nation...Justice for All'">
+d<img src="/img/main.jpg" alt="a large crowd marches in a downtown area holding a banner that says '1 Nation...Justice for All'">
 
 # Download the \#ImmigrationSyllabus
 
 ## Revised 2026 #ImmigrationSyllabus
 
-- [PDF](/static/docs/is-2026.pdf)
-- [Word](/static/docs/is-2026.docx)
-- [Markdown](/static/docs/is-2026.md)
+- [PDF](/docs/is-2026.pdf)
+- [Word](/docs/is-2026.docx)
+- [Markdown](/docs/is-2026.md)
 - [Website](https://github.com/UMNLibraries/immigration-syllabus-2026)
 
 ## Original #ImmigrationSyllabus (2017)
-- [PDF](/static/docs/is-2017.pdf)
+- [PDF](/docs/is-2017.pdf)
 
