@@ -97,11 +97,11 @@ Growing xenophobia and entrenched ideas of immigrants’ racial inferiority led 
 * Aristide R. Zolberg, *A Nation by Design: Immigration Policy in the Fashioning of America* (2008)
 
 ### Resources
-* [“An Un-American Bill:” A Congressman Denounces Immigration Quotas](https://historymatters.gmu.edu/d/5079), History Matters (primary source)
-* [Immigration Quotas, 1925-1927](https://historymatters.gmu.edu/d/5078), History Matters (primary source)
-* [“Shut the Door:” A Senator Speaks for Immigration Restriction](https://historymatters.gmu.edu/d/5080), History Matters (primary source)
-* [“The Senate’s Declaration of War:” Japan Responds to Japanese Exclusion](https://historymatters.gmu.edu/d/5077), History Matters (primary source)
-* [*U.S. v. Bhagat Singh Thind* (1923)](https://historymatters.gmu.edu/d/5076/), History Matters (primary source)
+* [“An Un-American Bill:” A Congressman Denounces Immigration Quotas](https://web.archive.org/web/20230325052630/https://historymatters.gmu.edu/d/5079), History Matters (primary source)
+* [Immigration Quotas, 1925-1927](https://web.archive.org/web/20190731183400/http://historymatters.gmu.edu/d/5078), History Matters (primary source)
+* [“Shut the Door:” A Senator Speaks for Immigration Restriction](https://web.archive.org/web/20190728021950/http://historymatters.gmu.edu/d/5080), History Matters (primary source)
+* [“The Senate’s Declaration of War:” Japan Responds to Japanese Exclusion](https://web.archive.org/web/20190729034824/http://historymatters.gmu.edu/d/5077), History Matters (primary source)
+* [*U.S. v. Bhagat Singh Thind* (1923)](https://web.archive.org/web/20190729034824/http://historymatters.gmu.edu/d/5076/), History Matters (primary source)
 * [Repatriation and Deportation of Mexicans 1932-1936](https://latinohistoryproject.org/teachers/primary-source-sets/repatriation-and-deportation-of-mexicans-1932-1936/), Boulder County Latino History (primary source collection)
 * [14: Dred Scott, Wong Kim Ark, and Vanessa Lopez](https://14themovie.com/) (documentary)
 * [Dollar a Day, Ten Cents a Dance](https://vimeo.com/45513418) (documentary)

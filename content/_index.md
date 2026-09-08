@@ -15,7 +15,7 @@ In response to that election, a team of immigration historians from the Immigrat
 
 In 2025, as the United States was embroiled in a surge of increased xenophobia and immigration enforcement, the Immigration History Research Center embarked on an update to this important resource guide. We convened a new team of scholars, consulted with the original authors of the syllabus, and created this revised and updated \#ImmigrationSyllabus. This update is by no means intended to replace the original; we encourage you to view the original [\#ImmigrationSyllabus](/docs/is-2017.pdf) here. Our goal was to incorporate new scholarship and resources that have emerged since the original’s publication and to highlight works in United States migration history that speak to the exigencies of the current moment. 
 
-The revised and updated \#ImmigrationSyllabus follows a loosely chronological overview of US immigration history, but with thematic emphases on issues like deportation and detention that transcend time periods. As there are many ways of learning immigration history, the topics included here are not intended to be exhaustive. Rather, we have selected readings that directly offer historical context for understanding contemporary immigration politics and have proven useful in our teaching.  Each week of the syllabus provides a selection of relevant scholarship, as well as a list of resources that may be useful in a classroom or workshop setting. We prioritized recent scholarship to give a sense of how the field of immigration history is developing, but please see the original [\#ImmigrationSyllabus](/docs/is-2017.pdf) for additional important works.
+The revised and updated \#ImmigrationSyllabus follows a loosely chronological overview of US immigration history, but with thematic emphases on issues like deportation and detention that transcend time periods. As there are many ways of learning immigration history, the topics included here are not intended to be exhaustive. Rather, we have selected readings that directly offer historical context for understanding contemporary immigration politics and have proven useful in our teaching.Each week of the syllabus provides a selection of relevant scholarship, as well as a list of resources that may be useful in a classroom or workshop setting. We prioritized recent scholarship to give a sense of how the field of immigration history is developing, but please see the original [\#ImmigrationSyllabus](/docs/is-2017.pdf) for additional important works.
 
 As with the original, we hope that this updated resource guide will help educators and activists in their teaching, advocacy, and public discussions about immigration in the United States historically and today. We also hope that it will assist policymakers who seek to avoid the mistakes of the past. We encourage you to reach out to the Immigration History Research Center at [IHRC@umn.edu](mailto:IHRC@umn.edu) with any questions. 
 
@@ -27,38 +27,38 @@ The United States is home to the world’s largest population of foreign-born pe
 
 ### Scholarship
 
-* Tyler Anbinder, *City of Dreams: The 400-year Epic History of Immigrant New York* (2016)  
-* Alexander T. Aleinikoff and Alexandra Délano, ed. *New Narratives on the Peopling of America: Immigration, Race, and Dispossession* (2024)  
-* Llana Barber, “Anti-Black Racism and the Nativist State,” *Journal of American Ethnic History* 42, no. 4 (2023): 5–59  
-* Ira Berlin, *The Making of African America: The Four Great Migrations* (2010)  
-* Ned Blackhawk, *The Rediscovery of America: Native Peoples and the Unmaking of U.S. History* (2023)  
-* Carl J. Bon Tempo and Hasia R. Diner, *Immigration: An American History* (2022)  
-* Gary Gerstle, “Liberty, Coercion, and the Making of Americans,” *Journal of American History* 84, no. 2 (September 1997): 524-558  
-* Adam Goodman, "Nation of Migrants, Historians of Migration," *Journal of American Ethnic History* 34, no. 4 (Summer 2015): 7-16  
-* Christiane Harzig and Dirk Hoerder, with Donna Gabaccia, “Migration in Human History—the Long View,” in *What is Migration History?* (2013), 8-52  
-* Dirk Hoerder, *Cultures in Contact: World Migrations in the Second Millennium* (2002)  
-* Kelly Lytle Hernández, "The Whites-Only Immigration Regime," *Western Historical Quarterly* 56, no.1 (Spring 2025):1-19  
-* Erika Lee, *The Making of Asian America* (2015)  
-* Mae M. Ngai, “Immigration and Ethnic History,” in *American History Now*, ed. Eric Foner and Lisa McGirr (2011), 358-375  
-* A. Naomi Paik, *Bans, Walls, Raids, Sanctuary: Understanding U.S. Immigration for the Twenty-First Century* (2020)  
-* Stephanie E. Smallwood, *Saltwater Slavery: A Middle Passage from Africa to American Diaspora* (2008)  
-* Zaragosa Vargas, *Crucible of Struggle: A History of Mexican Americans from Colonial Times to the Present Era* (2017)  
+* Tyler Anbinder, *City of Dreams: The 400-year Epic History of Immigrant New York* (2016)
+* Alexander T. Aleinikoff and Alexandra Délano, ed. *New Narratives on the Peopling of America: Immigration, Race, and Dispossession* (2024)
+* Llana Barber, “Anti-Black Racism and the Nativist State,” *Journal of American Ethnic History* 42, no. 4 (2023): 5–59
+* Ira Berlin, *The Making of African America: The Four Great Migrations* (2010)
+* Ned Blackhawk, *The Rediscovery of America: Native Peoples and the Unmaking of U.S. History* (2023)
+* Carl J. Bon Tempo and Hasia R. Diner, *Immigration: An American History* (2022)
+* Gary Gerstle, “Liberty, Coercion, and the Making of Americans,” *Journal of American History* 84, no. 2 (September 1997): 524-558
+* Adam Goodman, "Nation of Migrants, Historians of Migration," *Journal of American Ethnic History* 34, no. 4 (Summer 2015): 7-16
+* Christiane Harzig and Dirk Hoerder, with Donna Gabaccia, “Migration in Human History—the Long View,” in *What is Migration History?* (2013), 8-52
+* Dirk Hoerder, *Cultures in Contact: World Migrations in the Second Millennium* (2002)
+* Kelly Lytle Hernández, "The Whites-Only Immigration Regime," *Western Historical Quarterly* 56, no.1 (Spring 2025):1-19
+* Erika Lee, *The Making of Asian America* (2015)
+* Mae M. Ngai, “Immigration and Ethnic History,” in *American History Now*, ed. Eric Foner and Lisa McGirr (2011), 358-375
+* A. Naomi Paik, *Bans, Walls, Raids, Sanctuary: Understanding U.S. Immigration for the Twenty-First Century* (2020)
+* Stephanie E. Smallwood, *Saltwater Slavery: A Middle Passage from Africa to American Diaspora* (2008)
+* Zaragosa Vargas, *Crucible of Struggle: A History of Mexican Americans from Colonial Times to the Present Era* (2017)
 * David J. Weber, *The Spanish Frontier in North America* (2009)
 
 ### Resources
 
-* [We Shall Remain](https://www.pbs.org/wgbh/americanexperience/films/weshallremain/)*,* American Experience (documentary series)  
-* [Diary of John Harrower (indentured servant), 1773-1776](https://archive.org/details/diary00harr/page/n1/mode/2up), Internet Archive (primary source)  
-* [1790 Naturalization Act](https://encyclopedia.densho.org/Naturalization_Act_of_1790/), Densho (primary source)  
-* [Alien and Sedition Acts](https://guides.loc.gov/sb.php?subject_id=162830), Library of Congress (primary source)  
-* [In Motion: The African-American Migration Experience](https://www.inmotionaame.org/), The Schomburg Center for Research in Black Culture (digital history project)  
-* Evan Taparata, “[The U.S. Has Come a Long Way Since Its First, Highly Restrictive Naturalization Law](https://theworld.org/stories/2016/07/01/us-has-come-long-way-its-first-highly-restrictive-naturalization-law),” Public Radio International, July 4, 2016 (public-facing article)  
-* [Immigration to the United States, 1789-1930](https://curiosity.lib.harvard.edu/immigration-to-the-united-states-1789-1930), Harvard University Library (primary source collection)  
-* [Native Northeast Portal](https://www.nativenortheastportal.com/), Native Northeast Research Collaborative (primary source collection)  
-* [Mapping Deportations](https://mappingdeportations.com/), Center for Immigration Law and Policy at the UCLA School of Law and Million Dollar Hoods (digital history)  
-* [Teach Immigration History](https://immigrationhistory.org/), Immigration and Ethnic History Society (teaching resources)  
-* [America’s Great Migration Project](https://depts.washington.edu/moving1/), Civil Rights and Labor History Consortium, University of Washington (digital history)  
-* [*The 1619 Project* Curriculum](https://pulitzercenter.org/lesson-plan-grouping/1619-project-curriculum), Pulitzer Center (teaching resources)  
+* [We Shall Remain](https://www.pbs.org/wgbh/americanexperience/films/weshallremain/)*,* American Experience (documentary series)
+* [Diary of John Harrower (indentured servant), 1773-1776](https://archive.org/details/diary00harr/page/n1/mode/2up), Internet Archive (primary source)
+* [1790 Naturalization Act](https://encyclopedia.densho.org/Naturalization_Act_of_1790/), Densho (primary source)
+* [Alien and Sedition Acts](https://guides.loc.gov/sb.php?subject_id=162830), Library of Congress (primary source)
+* [In Motion: The African-American Migration Experience](https://www.inmotionaame.org/), The Schomburg Center for Research in Black Culture (digital history project)
+* Evan Taparata, “[The U.S. Has Come a Long Way Since Its First, Highly Restrictive Naturalization Law](https://theworld.org/stories/2016/07/01/us-has-come-long-way-its-first-highly-restrictive-naturalization-law),” Public Radio International, July 4, 2016 (public-facing article)
+* [Immigration to the United States, 1789-1930](https://curiosity.lib.harvard.edu/immigration-to-the-united-states-1789-1930), Harvard University Library (primary source collection)
+* [Native Northeast Portal](https://www.nativenortheastportal.com/), Native Northeast Research Collaborative (primary source collection)
+* [Mapping Deportations](https://mappingdeportations.com/), Center for Immigration Law and Policy at the UCLA School of Law and Million Dollar Hoods (digital history)
+* [Teach Immigration History](https://immigrationhistory.org/), Immigration and Ethnic History Society (teaching resources)
+* [America’s Great Migration Project](https://depts.washington.edu/moving1/), Civil Rights and Labor History Consortium, University of Washington (digital history)
+* [*The 1619 Project* Curriculum](https://pulitzercenter.org/lesson-plan-grouping/1619-project-curriculum), Pulitzer Center (teaching resources)
 * [250 Years of Immigrant Stories](https://sites.google.com/umd.edu/250immigrantstories/home), Center for Global Migration Studies and Immigration and Ethnic History Society (podcast series)
 
 ---------
@@ -68,52 +68,52 @@ From the colonial period through the nineteenth century, North America received 
 
 ### Scholarship
 
-* Bernard Bailyn, *The Barbarous Years: The Peopling of British North America: The Conflict of Civilizations, 1600-1675* (2013)  
-* Alice L. Baumgartner, *South to Freedom: Runaway Slaves to Mexico and the Road to the Civil War* (2020)  
-* David Chang, *The World and All the Things upon It: Native Hawaiian Geographies of Exploration* (2016)  
-* Cornelia H. Dayton and Sharon V. Salinger, *Robert Love's Warnings: Searching for Strangers in Colonial Boston* (2014)  
-* Rita Shelton Deverell, *American Refugees: Turning to Canada for Freedom* (2019)  
-* Hasia R. Diner, *Roads Taken: The Great Jewish Migrations to the New World and the Peddlers Who Forged the Way* (2015)  
-* Elizabeth N. Ellis, *The Great Power of Small Nations: Indigenous Diplomacy in the Gulf South* (2023)  
-* Alison Games, *Migration and the Origins of the English Atlantic World* (2001)  
-* Laura E. Gómez, *Manifest Destinies: The Making of the Mexican American Race* (2018)  
-* Kevin Kenny, *The Problem of Immigration in a Slaveholding Republic: Policing Mobility in the Nineteenth-Century United States* (2023)  
-* Lila Teeters Knolle, “Indians Now Taxed: Citizenship and Taxation in Settler-Colonial South Dakota,” *Journal of American Ethnic History* 44, no. 4 (Summer 2025): 44–72  
-* Anna O. Law, *Migration and the Origins of American Citizenship: African Americans, Native Americans, and Immigrants* (2026)  
-* Rosina Lozano, *American Language: The History of Spanish in the United States* (2018)  
-* Cian T. McMahon, *The Coffin Ship: Life and Death at Sea During the Great Irish Famine* (2021)  
-* Adam McKeown, “Global Migration, 1846–1940,” *Journal of World History* 15, no. 2 (June 2004): 155–189  
-* Mae Ngai, *The Chinese Question: The Gold Rushes and Global Politics* (2021)  
-* Brenden W. Rensink, *Native but Foreign: Indigenous Immigrants and Refugees in the North American Borderlands* (2018).  
-* Samantha Seeley, *Race, Removal, and the Right to Remain: Migration and the Making of the United States* (2021)  
-* Evan Taparata, “‘Refugees as You Call Them’: The Politics of Refugee Recognition in the Nineteenth-Century United States,” *Journal of American Ethnic History* 38, no. 2 (Winter 2019): 9–35  
-* Christopher Tomlins, *Freedom Bound: Law, Labor, and Civic Identity in Colonizing English America, 1580-1865* (New York: Cambridge University Press, 2010\)  
+* Bernard Bailyn, *The Barbarous Years: The Peopling of British North America: The Conflict of Civilizations, 1600-1675* (2013)
+* Alice L. Baumgartner, *South to Freedom: Runaway Slaves to Mexico and the Road to the Civil War* (2020)
+* David Chang, *The World and All the Things upon It: Native Hawaiian Geographies of Exploration* (2016)
+* Cornelia H. Dayton and Sharon V. Salinger, *Robert Love's Warnings: Searching for Strangers in Colonial Boston* (2014)
+* Rita Shelton Deverell, *American Refugees: Turning to Canada for Freedom* (2019)
+* Hasia R. Diner, *Roads Taken: The Great Jewish Migrations to the New World and the Peddlers Who Forged the Way* (2015)
+* Elizabeth N. Ellis, *The Great Power of Small Nations: Indigenous Diplomacy in the Gulf South* (2023)
+* Alison Games, *Migration and the Origins of the English Atlantic World* (2001)
+* Laura E. Gómez, *Manifest Destinies: The Making of the Mexican American Race* (2018)
+* Kevin Kenny, *The Problem of Immigration in a Slaveholding Republic: Policing Mobility in the Nineteenth-Century United States* (2023)
+* Lila Teeters Knolle, “Indians Now Taxed: Citizenship and Taxation in Settler-Colonial South Dakota,” *Journal of American Ethnic History* 44, no. 4 (Summer 2025): 44–72
+* Anna O. Law, *Migration and the Origins of American Citizenship: African Americans, Native Americans, and Immigrants* (2026)
+* Rosina Lozano, *American Language: The History of Spanish in the United States* (2018)
+* Cian T. McMahon, *The Coffin Ship: Life and Death at Sea During the Great Irish Famine* (2021)
+* Adam McKeown, “Global Migration, 1846–1940,” *Journal of World History* 15, no. 2 (June 2004): 155–189
+* Mae Ngai, *The Chinese Question: The Gold Rushes and Global Politics* (2021)
+* Brenden W. Rensink, *Native but Foreign: Indigenous Immigrants and Refugees in the North American Borderlands* (2018).
+* Samantha Seeley, *Race, Removal, and the Right to Remain: Migration and the Making of the United States* (2021)
+* Evan Taparata, “‘Refugees as You Call Them’: The Politics of Refugee Recognition in the Nineteenth-Century United States,” *Journal of American Ethnic History* 38, no. 2 (Winter 2019): 9–35
+* Christopher Tomlins, *Freedom Bound: Law, Labor, and Civic Identity in Colonizing English America, 1580-1865* (New York: Cambridge University Press, 2010\)
 * Elliott Young, *Alien Nation: Chinese Migration in the Americas from the Coolie Era through WWII* (2014)
 
 ### Resources
 
-* [Irish Immigrant Letters Home](https://hsp.org/education/unit-plans/irish-immigration/irish-immigrant-letters-home), Historical Society of Pennsylvania (primary source teaching guide)  
-* [Germans in America](https://guides.loc.gov/germans-in-america), Library of Congress (research guide)  
-* [Olaudah Equiano, *The Interesting Narrative and Other Writings,* 1789](https://www.gutenberg.org/files/15399/15399-h/15399-h.htm), Project Gutenberg (primary source)  
-* [SlaveVoyages: The Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/), Emory University (database)  
-* [The U.S. Dakota War of 1862](https://www.mnhs.org/fortsnelling/learn/us-dakota-war), Minnesota Historical Society (public-facing article)  
-* [Scandinavian Immigration](https://www.loc.gov/classroom-materials/immigration/scandinavian/), Library of Congress (public-facing article)  
-* Frederick Douglass, [Our Composite Nation](https://teachingamericanhistory.org/document/our-composite-nationality/), 1867, Teaching American History (primary source)  
-* [Africans in America: America’s Journey Through Slavery](https://www.pbs.org/wgbh/aia/home.html), PBS (documentary series)  
-* [The Transatlantic Slave Trade](https://dp.la/primary-source-sets/the-transatlantic-slave-trade), Digital Public library of America (primary source set)  
-* [Slavery Images: A Visual Record of the African Slave Trade and Slave Life in the Early African Diaspora](https://slaveryimages.org/public/index.php), Virginia Foundation for the Humanities and University of Virginia (primary source collection)  
-* [Immigration Challenges for New Americans](https://www.loc.gov/classroom-materials/immigration-challenges-for-new-americans/), Library of Congress (primary source set)  
-* [German Immigrants: Their Contributions to the Upper Midwest](https://www.loc.gov/classroom-materials/german-immigrants-their-contributions-to-the-upper-midwest/), Library of Congress (primary source teaching guide)  
-* [Westward Expansion: Encounters at a Cultural Crossroads](https://www.loc.gov/classroom-materials/westward-expansion-encounters-at-a-cultural-crossroads/), Library of Congress (primary source set)  
-* [Texas Runaway Slave Project,](https://digital.sfasu.edu/digital/collection/RSP) East Texas Digital Archive (database)  
-* [Carlisle Indian School Digital Resource Center](https://carlisleindian.dickinson.edu/index.php/), Dickinson College (primary source collection)  
-* [The Homestead Acts](https://dp.la/primary-source-sets/the-homestead-acts), Digital Public Library of America (primary source set)  
-* [Cherokee Removal and the Trail of Tears](https://dp.la/primary-source-sets/cherokee-removal-and-the-trail-of-tears), Digital Public Library of America (primary source set)  
-* [The Chinese American Experience 1857-1892](https://immigrants.harpweek.com/), *Harper’s Weekly* (primary source collection)  
-* [California Gold Rush](https://dp.la/primary-source-sets/california-gold-rush), Digital Public Library of America (primary source set)  
-* [Early Chinese Immigration to the US](https://dp.la/primary-source-sets/early-chinese-immigration-to-the-us), Digital Public Library of America (primary source set)  
-* [Genoa Indian School Digital Reconciliation Project](https://genoaindianschool.org/about-project) (primary source collection)  
-* [Native Land Digital](https://native-land.ca/) (digital mapping project)  
+* [Irish Immigrant Letters Home](https://hsp.org/education/unit-plans/irish-immigration/irish-immigrant-letters-home), Historical Society of Pennsylvania (primary source teaching guide)
+* [Germans in America](https://guides.loc.gov/germans-in-america), Library of Congress (research guide)
+* [Olaudah Equiano, *The Interesting Narrative and Other Writings,* 1789](https://www.gutenberg.org/files/15399/15399-h/15399-h.htm), Project Gutenberg (primary source)
+* [SlaveVoyages: The Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/), Emory University (database)
+* [The U.S. Dakota War of 1862](https://www.mnhs.org/fortsnelling/learn/us-dakota-war), Minnesota Historical Society (public-facing article)
+* [Scandinavian Immigration](https://www.loc.gov/classroom-materials/immigration/scandinavian/), Library of Congress (public-facing article)
+* Frederick Douglass, [Our Composite Nation](https://teachingamericanhistory.org/document/our-composite-nationality/), 1867, Teaching American History (primary source)
+* [Africans in America: America’s Journey Through Slavery](https://www.pbs.org/wgbh/aia/home.html), PBS (documentary series)
+* [The Transatlantic Slave Trade](https://dp.la/primary-source-sets/the-transatlantic-slave-trade), Digital Public library of America (primary source set)
+* [Slavery Images: A Visual Record of the African Slave Trade and Slave Life in the Early African Diaspora](https://slaveryimages.org/public/index.php), Virginia Foundation for the Humanities and University of Virginia (primary source collection)
+* [Immigration Challenges for New Americans](https://www.loc.gov/classroom-materials/immigration-challenges-for-new-americans/), Library of Congress (primary source set)
+* [German Immigrants: Their Contributions to the Upper Midwest](https://www.loc.gov/classroom-materials/german-immigrants-their-contributions-to-the-upper-midwest/), Library of Congress (primary source teaching guide)
+* [Westward Expansion: Encounters at a Cultural Crossroads](https://www.loc.gov/classroom-materials/westward-expansion-encounters-at-a-cultural-crossroads/), Library of Congress (primary source set)
+* [Texas Runaway Slave Project,](https://digital.sfasu.edu/digital/collection/RSP) East Texas Digital Archive (database)
+* [Carlisle Indian School Digital Resource Center](https://carlisleindian.dickinson.edu/index.php/), Dickinson College (primary source collection)
+* [The Homestead Acts](https://dp.la/primary-source-sets/the-homestead-acts), Digital Public Library of America (primary source set)
+* [Cherokee Removal and the Trail of Tears](https://dp.la/primary-source-sets/cherokee-removal-and-the-trail-of-tears), Digital Public Library of America (primary source set)
+* [The Chinese American Experience 1857-1892](https://immigrants.harpweek.com/), *Harper’s Weekly* (primary source collection)
+* [California Gold Rush](https://dp.la/primary-source-sets/california-gold-rush), Digital Public Library of America (primary source set)
+* [Early Chinese Immigration to the US](https://dp.la/primary-source-sets/early-chinese-immigration-to-the-us), Digital Public Library of America (primary source set)
+* [Genoa Indian School Digital Reconciliation Project](https://genoaindianschool.org/about-project) (primary source collection)
+* [Native Land Digital](https://native-land.ca/) (digital mapping project)
 * [Tribal Treaties Database](https://treaties.okstate.edu/), Oklahoma State University (database)
 
 ---------
@@ -123,31 +123,31 @@ The arrival of immigrants in growing numbers during the nineteenth century was m
 
 ### Scholarship
 
-* Tyler Anbinder, *Nativism and Slavery: The Northern Know Nothings and the Politics of the 1850s* (1992)  
-* John Higham, *Strangers in the Land: Patterns of American Nativism, 1860–1925* (2002)  
-* Hidetaka Hirota, *Expelling the Poor: Atlantic Seaboard States and the Nineteenth-Century Origins of American Immigration Policy* (2017)  
-* Erika Lee, *America for Americans: A History of Xenophobia in the United States* (2019)  
-* Beth Lew-Williams, *The Chinese Must Go: Violence, Exclusion, and the Making of the Alien in America* (2018)  
-* Luke J. Ritter, *Inventing America's First Immigration Crisis: Political Nativism in the Antebellum West* (2021)  
-* Peter Schrag, *Not Fit for Our Society: Nativism and Immigration* (2010)  
-* Zachary M. Schrag, *The Fires of Philadelphia: Citizen-Soldiers, Nativists, and the 1844 Riots over the Soul of a Nation* (2021)  
+* Tyler Anbinder, *Nativism and Slavery: The Northern Know Nothings and the Politics of the 1850s* (1992)
+* John Higham, *Strangers in the Land: Patterns of American Nativism, 1860–1925* (2002)
+* Hidetaka Hirota, *Expelling the Poor: Atlantic Seaboard States and the Nineteenth-Century Origins of American Immigration Policy* (2017)
+* Erika Lee, *America for Americans: A History of Xenophobia in the United States* (2019)
+* Beth Lew-Williams, *The Chinese Must Go: Violence, Exclusion, and the Making of the Alien in America* (2018)
+* Luke J. Ritter, *Inventing America's First Immigration Crisis: Political Nativism in the Antebellum West* (2021)
+* Peter Schrag, *Not Fit for Our Society: Nativism and Immigration* (2010)
+* Zachary M. Schrag, *The Fires of Philadelphia: Citizen-Soldiers, Nativists, and the 1844 Riots over the Soul of a Nation* (2021)
 * Michael A. Schoeppner, “Black Migrants and Border Regulation in the Early United States,” *Journal of the Civil War Era* 11, no.3 (September 2021): 317-339
 
 ### Resources
 
-* [Dillingham Commission, 1907-1911](https://curiosity.lib.harvard.edu/immigration-to-the-united-states-1789-1930?utm_source=library.harvard), U.S. Immigration Commission (primary source collection)  
-* Noel Hartman, “[The Passing of the Great Race at 100](https://www.publicbooks.org/the-passing-of-the-great-race-at-100/),” *Public Books*, July 1, 2016 (public-facing article)  
-* [Woodrow Wilson’s Veto Message on the 1915 Immigration Bill](https://www.presidency.ucsb.edu/documents/veto-message-0), The American Presidency Project (primary source)  
-* [Asiatic Exclusion League, “Proceedings,” 1908](https://librarycollections.law.umn.edu/archive/index.php?project=darrow&doc=Dec%2008%20Asiatic.pdf), University of Minnesota Law Library (primary source)  
-* Randolph Bourne, “[Trans-National America](https://www.theatlantic.com/magazine/archive/1916/07/trans-national-america/304838/),” *The Atlantic*, 1916 (primary source)  
-* [*Chae Chan Ping v. United States* (The Chinese Exclusion Case), 1889](https://supreme.justia.com/cases/federal/us/130/581/) (primary source)  
-* [Chinese Exclusion Act, 1882](https://catalog.archives.gov/id/5752153), National Archives (primary source)  
-* [Immigration through Angel Island](https://dp.la/primary-source-sets/immigration-through-angel-island), Digital Public Library of America (primary source set)  
-* [Political Cartoons about the “Chinese Question,”](https://immigrants.harpweek.com/) *Harper’s Weekly* (primary source collection)  
-* Theodore Roosevelt, [True Americanism](https://babel.hathitrust.org/cgi/pt?id=uc1.31175021953685&seq=44), 1894, HathiTrust (primary source)  
-* [*United States v. Wong Kim Ark*,](https://encyclopedia.densho.org/United_States_v._Wong_Kim_Ark/) 1897, Densho (primary source)  
-* Irene Hsu “[The Echoes of Chinese Exclusion](https://newrepublic.com/article/149437/echoes-chinese-exclusion),” *The New Republic*, June 28, 2018  (public-facing article)  
-* Hector Alejandro Arzate, “[Chinese Immigrants Were Forced Out of Eureka in 1885 – Here’s How Locals Are Making That History Known](https://www.kqed.org/news/11891987/chinese-immigrants-were-forced-out-of-eureka-in-1885-heres-how-locals-are-making-that-history-known),” *KQED*, October 15, 2021 (public-facing article)  
+* [Dillingham Commission, 1907-1911](https://curiosity.lib.harvard.edu/immigration-to-the-united-states-1789-1930?utm_source=library.harvard), U.S. Immigration Commission (primary source collection)
+* Noel Hartman, “[The Passing of the Great Race at 100](https://www.publicbooks.org/the-passing-of-the-great-race-at-100/),” *Public Books*, July 1, 2016 (public-facing article)
+* [Woodrow Wilson’s Veto Message on the 1915 Immigration Bill](https://www.presidency.ucsb.edu/documents/veto-message-0), The American Presidency Project (primary source)
+* [Asiatic Exclusion League, “Proceedings,” 1908](https://librarycollections.law.umn.edu/archive/index.php?project=darrow&doc=Dec%2008%20Asiatic.pdf), University of Minnesota Law Library (primary source)
+* Randolph Bourne, “[Trans-National America](https://www.theatlantic.com/magazine/archive/1916/07/trans-national-america/304838/),” *The Atlantic*, 1916 (primary source)
+* [*Chae Chan Ping v. United States* (The Chinese Exclusion Case), 1889](https://supreme.justia.com/cases/federal/us/130/581/) (primary source)
+* [Chinese Exclusion Act, 1882](https://catalog.archives.gov/id/5752153), National Archives (primary source)
+* [Immigration through Angel Island](https://dp.la/primary-source-sets/immigration-through-angel-island), Digital Public Library of America (primary source set)
+* [Political Cartoons about the “Chinese Question,”](https://immigrants.harpweek.com/) *Harper’s Weekly* (primary source collection)
+* Theodore Roosevelt, [True Americanism](https://babel.hathitrust.org/cgi/pt?id=uc1.31175021953685&seq=44), 1894, HathiTrust (primary source)
+* [*United States v. Wong Kim Ark*,](https://encyclopedia.densho.org/United_States_v._Wong_Kim_Ark/) 1897, Densho (primary source)
+* Irene Hsu “[The Echoes of Chinese Exclusion](https://newrepublic.com/article/149437/echoes-chinese-exclusion),” *The New Republic*, June 28, 2018(public-facing article)
+* Hector Alejandro Arzate, “[Chinese Immigrants Were Forced Out of Eureka in 1885 – Here’s How Locals Are Making That History Known](https://www.kqed.org/news/11891987/chinese-immigrants-were-forced-out-of-eureka-in-1885-heres-how-locals-are-making-that-history-known),” *KQED*, October 15, 2021 (public-facing article)
 * [Irish Stereotype](https://thomasnastcartoons.com/irish-catholic-cartoons/irish-stereotype/), Thomas Nast Cartoons (digital history)
 
 ---------
@@ -158,33 +158,33 @@ Beginning in the 1890s, an expanding and industrializing United States experienc
 
 ### Scholarship
 
-* Charlotte Karem Albrecht, *Possible Histories: Arab Americans and the Queer Ecology of Peddling* (2023)  
-* Edward E. Curtis, *Muslims of the Heartland: How Syrian Immigrants Made a Home in the American Midwest* (2022)  
-* Hasia R. Diner, *Hungering for America: Italian, Irish, and Jewish Foodways in the Age of Migration* (2001)  
-* Sonia C. Gomez, *Picture Bride, War Bride: The Role of Marriage in Shaping Japanese America* (2024)  
-* Marilyn Halter, *Between Race and Ethnicity: Cape Verdean American Immigrants, 1860–1965* (1993)  
-* Madeline Y. Hsu, *Dreaming of Gold, Dreaming of Home: Transnationalism and Migration between the United States and South China, 1882–1943* (2000)  
-* Matthew Frye Jacobson, *Barbarian Virtues: The United States Encounters Foreign Peoples at Home and Abroad* (2000)  
-* Violet Showers Johnson, *The Other Black Bostonians: West Indians in Boston, 1900–1950* (2006)  
-* Kevin Kenny and Maddalena Marinari, eds., *Rituals of Migration: Italians and Irish on the Move* (2025)  
-* Adam M. McKeown, *Melancholy Order: Asian Migration and the Globalization of Borders* (2008)  
-* Adam D. Mendelsohn, *The Rag Race: How Jews Sewed Their Way to Success in America and the British Empire* (2014)  
-* Natalia Molina, *Fit to Be Citizens? Public Health and Race in Los Angeles, 1879–1939* (2006)  
-* Daniel Morales, *Between Here and There: Creating the Political Economy of Mexican Migration, 1900-1942* (2024)  
-* Lara Putnam, *Radical Moves: Caribbean Migrants and the Politics of Race in the Jazz Age* (2013)  
-* Dalen C. B. Wakeley-Smith, “‘The one primitive people who contact with civilization has failed to exterminate’: New York and ‘Gypsy’ Madness in the 1920s,” *Journal of American Ethnic History* 43, no. 1 (Fall 2023): 67–87  
+* Charlotte Karem Albrecht, *Possible Histories: Arab Americans and the Queer Ecology of Peddling* (2023)
+* Edward E. Curtis, *Muslims of the Heartland: How Syrian Immigrants Made a Home in the American Midwest* (2022)
+* Hasia R. Diner, *Hungering for America: Italian, Irish, and Jewish Foodways in the Age of Migration* (2001)
+* Sonia C. Gomez, *Picture Bride, War Bride: The Role of Marriage in Shaping Japanese America* (2024)
+* Marilyn Halter, *Between Race and Ethnicity: Cape Verdean American Immigrants, 1860–1965* (1993)
+* Madeline Y. Hsu, *Dreaming of Gold, Dreaming of Home: Transnationalism and Migration between the United States and South China, 1882–1943* (2000)
+* Matthew Frye Jacobson, *Barbarian Virtues: The United States Encounters Foreign Peoples at Home and Abroad* (2000)
+* Violet Showers Johnson, *The Other Black Bostonians: West Indians in Boston, 1900–1950* (2006)
+* Kevin Kenny and Maddalena Marinari, eds., *Rituals of Migration: Italians and Irish on the Move* (2025)
+* Adam M. McKeown, *Melancholy Order: Asian Migration and the Globalization of Borders* (2008)
+* Adam D. Mendelsohn, *The Rag Race: How Jews Sewed Their Way to Success in America and the British Empire* (2014)
+* Natalia Molina, *Fit to Be Citizens? Public Health and Race in Los Angeles, 1879–1939* (2006)
+* Daniel Morales, *Between Here and There: Creating the Political Economy of Mexican Migration, 1900-1942* (2024)
+* Lara Putnam, *Radical Moves: Caribbean Migrants and the Politics of Race in the Jazz Age* (2013)
+* Dalen C. B. Wakeley-Smith, “‘The one primitive people who contact with civilization has failed to exterminate’: New York and ‘Gypsy’ Madness in the 1920s,” *Journal of American Ethnic History* 43, no. 1 (Fall 2023): 67–87
 * Tara Zahra, *The Great Departure: Mass Migration from Eastern Europe and the Making of the Free World* (2017)
 
 ### Scholarship
 
-* [Interviews and Other Primary Sources from the Ellis Island Collection](https://www.nps.gov/elis/learn/education/primary-sources-for-your-classroom.htm), National Park Service (primary source collection)  
-* Forgotten Ellis Island (documentary)  
-* [Carved in Silence](https://vimeo.com/77515667) (documentary)  
-* [Island of Hope, Island of Tears](https://archive.org/details/gov.ntis.ava15996vnb1) (documentary)  
-* [Great Migrations: A People on the Move](https://www.pbs.org/show/great-migrations-a-people-on-the-move/), PBS (documentary series)  
-* [Digitizing Immigrant Letters](https://ihrca.umn.edu/immigrant-letters/), Immigration History Research Center Archives (primary source collection)  
-* [Mexican American Migrations and Communities](https://www.loc.gov/classroom-materials/mexican-american-migrations-and-communities/), Library of Congress (primary source collection)  
-* [The Great Migration](https://dp.la/primary-source-sets/the-great-migration), Digital Public Library of America (primary source set)  
+* [Interviews and Other Primary Sources from the Ellis Island Collection](https://www.nps.gov/elis/learn/education/primary-sources-for-your-classroom.htm), National Park Service (primary source collection)
+* Forgotten Ellis Island (documentary)
+* [Carved in Silence](https://vimeo.com/77515667) (documentary)
+* [Island of Hope, Island of Tears](https://archive.org/details/gov.ntis.ava15996vnb1) (documentary)
+* [Great Migrations: A People on the Move](https://www.pbs.org/show/great-migrations-a-people-on-the-move/), PBS (documentary series)
+* [Digitizing Immigrant Letters](https://ihrca.umn.edu/immigrant-letters/), Immigration History Research Center Archives (primary source collection)
+* [Mexican American Migrations and Communities](https://www.loc.gov/classroom-materials/mexican-american-migrations-and-communities/), Library of Congress (primary source collection)
+* [The Great Migration](https://dp.la/primary-source-sets/the-great-migration), Digital Public Library of America (primary source set)
 * [Immigration and Americanization, 1880-1930](https://dp.la/primary-source-sets/immigration-and-americanization-1880-1930), Digital Public Library of America (primary source set)
 
 ---------
@@ -194,34 +194,34 @@ Growing xenophobia and entrenched ideas of immigrants’ racial inferiority led 
 
 ### Scholarship
 
-* Danielle Battisti and S. Deborah Kang, eds., *Hidden Histories of Unauthorized Migrations from Europe to the United States* (2025)  
-* Ronald H. Bayor, *Encountering Ellis Island: How European Immigrants Entered America* (2014)  
-* Douglas C. Baynton, *Defectives in the Land: Disability and Immigration in the Age of Eugenics* (2016)  
-* Katherine Benton-Cohen, *Inventing the Immigration Problem: The Dillingham Commission and Its Legacy* (2018)  
-* Roger Daniels, *Guarding the Golden Door: American Immigration Policy and Immigrants since 1882* (2005)  
-* Libby Garland, *After They Closed the Gates: Jewish Illegal Immigration to the United States, 1921–1965* (2014)  
-* Thomas A. Guglielmo, *White on Arrival: Italians, Race, Color, and Power in Chicago, 1890–1945* (2003)  
-* Matthew Frye Jacobson, *Whiteness of a Different Color: European Immigrants and the Alchemy of Race* (1998)  
-* Erika Lee, *At America’s Gates: Chinese Immigration during the Exclusion Era, 1882–1943* (2003)  
-* Erika Lee and Judy Yung, *Angel Island: Immigrant Gateway to America* (2010)  
-* Beth Lew-Williams, *John Doe Chinaman: A Forgotten History of Chinese Life under American Racial Law* (2025)  
-* Julian Lim, “Mormons and Mohammedans: Race, Religion, and the Anti-Polygamy Bar in US Immigration Law,” *Journal of American Ethnic History* 41, no. 1 (Fall 2021): 5–49  
-* Eithne Luibhéid, *Entry Denied: Controlling Sexuality at the Border* (2002)  
-* Maddalena Marinari, *Unwanted: Italian and Jewish Mobilization against Restrictive Immigration Laws, 1882–1965* (2020)  
-* Maddalena Marinari, Madeline Y. Hsu, and Maria Cristina García, eds., *A Nation of Immigrants Reconsidered: US Society in an Age of Restriction, 1924–1965* (2019)  
-* Mae M. Ngai, “The Architecture of Race in American Immigration Law: A Reexamination of the Immigration Act of 1924,” *Journal of American History* 86, no. 1 (June 1999): 67–92  
-* Ivón Padilla-Rodríguez, “‘Los Hijos Son La Riqueza Del Pobre:’Mexican Child Migration and the Making of Domestic (Im)migrant Exclusion, 1937–1960,” *Journal of American Ethnic History* 42, no.1 (2022): 43–81  
-* Lucy E. Salyer, *Laws Harsh as Tigers: Chinese Immigrants and the Shaping of Modern Immigration Law* (1995)  
+* Danielle Battisti and S. Deborah Kang, eds., *Hidden Histories of Unauthorized Migrations from Europe to the United States* (2025)
+* Ronald H. Bayor, *Encountering Ellis Island: How European Immigrants Entered America* (2014)
+* Douglas C. Baynton, *Defectives in the Land: Disability and Immigration in the Age of Eugenics* (2016)
+* Katherine Benton-Cohen, *Inventing the Immigration Problem: The Dillingham Commission and Its Legacy* (2018)
+* Roger Daniels, *Guarding the Golden Door: American Immigration Policy and Immigrants since 1882* (2005)
+* Libby Garland, *After They Closed the Gates: Jewish Illegal Immigration to the United States, 1921–1965* (2014)
+* Thomas A. Guglielmo, *White on Arrival: Italians, Race, Color, and Power in Chicago, 1890–1945* (2003)
+* Matthew Frye Jacobson, *Whiteness of a Different Color: European Immigrants and the Alchemy of Race* (1998)
+* Erika Lee, *At America’s Gates: Chinese Immigration during the Exclusion Era, 1882–1943* (2003)
+* Erika Lee and Judy Yung, *Angel Island: Immigrant Gateway to America* (2010)
+* Beth Lew-Williams, *John Doe Chinaman: A Forgotten History of Chinese Life under American Racial Law* (2025)
+* Julian Lim, “Mormons and Mohammedans: Race, Religion, and the Anti-Polygamy Bar in US Immigration Law,” *Journal of American Ethnic History* 41, no. 1 (Fall 2021): 5–49
+* Eithne Luibhéid, *Entry Denied: Controlling Sexuality at the Border* (2002)
+* Maddalena Marinari, *Unwanted: Italian and Jewish Mobilization against Restrictive Immigration Laws, 1882–1965* (2020)
+* Maddalena Marinari, Madeline Y. Hsu, and Maria Cristina García, eds., *A Nation of Immigrants Reconsidered: US Society in an Age of Restriction, 1924–1965* (2019)
+* Mae M. Ngai, “The Architecture of Race in American Immigration Law: A Reexamination of the Immigration Act of 1924,” *Journal of American History* 86, no. 1 (June 1999): 67–92
+* Ivón Padilla-Rodríguez, “‘Los Hijos Son La Riqueza Del Pobre:’Mexican Child Migration and the Making of Domestic (Im)migrant Exclusion, 1937–1960,” *Journal of American Ethnic History* 42, no.1 (2022): 43–81
+* Lucy E. Salyer, *Laws Harsh as Tigers: Chinese Immigrants and the Shaping of Modern Immigration Law* (1995)
 * Aristide R. Zolberg, *A Nation by Design: Immigration Policy in the Fashioning of America* (2008)
 
 ### Resources
-* [“An Un-American Bill:” A Congressman Denounces Immigration Quotas](https://historymatters.gmu.edu/d/5079), History Matters (primary source)  
-* [Immigration Quotas, 1925-1927](https://historymatters.gmu.edu/d/5078), History Matters (primary source)  
-* [“Shut the Door:” A Senator Speaks for Immigration Restriction](https://historymatters.gmu.edu/d/5080), History Matters (primary source)  
-* [“The Senate’s Declaration of War:” Japan Responds to Japanese Exclusion](https://historymatters.gmu.edu/d/5077), History Matters (primary source)  
-* [*U.S. v. Bhagat Singh Thind* (1923)](https://historymatters.gmu.edu/d/5076/), History Matters (primary source)  
-* [Repatriation and Deportation of Mexicans 1932-1936](https://latinohistoryproject.org/teachers/primary-source-sets/repatriation-and-deportation-of-mexicans-1932-1936/), Boulder County Latino History (primary source collection)  
-* [14: Dred Scott, Wong Kim Ark, and Vanessa Lopez](https://14themovie.com/) (documentary)  
+* [“An Un-American Bill:” A Congressman Denounces Immigration Quotas](https://web.archive.org/web/20230325052630/https://historymatters.gmu.edu/d/5079), History Matters (primary source)
+* [Immigration Quotas, 1925-1927](https://web.archive.org/web/20190731183400/http://historymatters.gmu.edu/d/5078), History Matters (primary source)
+* [“Shut the Door:” A Senator Speaks for Immigration Restriction](https://web.archive.org/web/20190728021950/http://historymatters.gmu.edu/d/5080), History Matters (primary source)
+* [“The Senate’s Declaration of War:” Japan Responds to Japanese Exclusion](https://web.archive.org/web/20190729034824/http://historymatters.gmu.edu/d/5077), History Matters (primary source)
+* [*U.S. v. Bhagat Singh Thind* (1923)](https://web.archive.org/web/20190729034824/http://historymatters.gmu.edu/d/5076/), History Matters (primary source)
+* [Repatriation and Deportation of Mexicans 1932-1936](https://latinohistoryproject.org/teachers/primary-source-sets/repatriation-and-deportation-of-mexicans-1932-1936/), Boulder County Latino History (primary source collection)
+* [14: Dred Scott, Wong Kim Ark, and Vanessa Lopez](https://14themovie.com/) (documentary)
 * [Dollar a Day, Ten Cents a Dance](https://vimeo.com/45513418) (documentary)
 
 ---------
@@ -231,43 +231,43 @@ Empire – the exercise of one nation’s power and influence in ways that shape
 
 ### Scholarship
 
-* Eiichiro Azuma, *Between Two Empires: Race, History, and Transnationalism in Japanese America* (2005)  
-* Rick Baldoz, *The Third Asiatic Invasion: Empire and Migration in Filipino America, 1898–1946* (2011)  
-* Catherine Ceniza Choy, *Empire of Care: Nursing and Migration in Filipino American History* (2003)  
-* Kaysha Corinealdi, *Panama in Black: Afro-Caribbean World Making in the Twentieth Century* (2022)  
-* Donna R. Gabaccia, *Foreign Relations: American Immigration in Global Perspective* (2012)  
-* Ismael García-Colón, *Colonial Migrants at the Heart of Empire: Puerto Rican Workers on U.S. Farms* (2020)  
-* Juan González, *Harvest of Empire: A History of Latinos in America* (2022)  
-* Julie Greene, *The Canal Builders: Making America’s Empire at the Panama Canal* (2009)  
-* Frank Andre Guridy, *Forging Diaspora: Afro-Cubans and African Americans in a World of Empire and Jim Crow* (2010)  
-* Jesse Hoffnung-Garskof, *A Tale of Two Cities: Santo Domingo and New York after 1950* (2008)  
-* Moon-Ho Jung, *Menace to Empire: Anticolonial Solidarities and the Transpacific Origins of the U.S. Security State* (2022)  
-* Paul A. Kramer, “The Geopolitics of Mobility: Immigration Policy and American Global Power in the Long Twentieth Century,” *American Historical Review* 123, no.2 (April 2018): 393–438  
-* Adrian De Leon, *Bundok: A Hinterland History of Filipino America* (2023)  
-* Adrian De Leon, “Frank Mancao's ‘Pinoy Image’: Photography, Masculinity, and Respectability in Depression-Era California,” *Journal of American Ethnic History* 41, no. 2 (Winter 2022): 58–94  
-* Simeon Man, *Soldiering through Empire: Race and the Making of the Decolonizing Pacific* (2018)  
-* Alaina M. Morgan, *Atlantic Crescent: Building Geographies of Black and Muslim Liberation in the African Diaspora* (2025)  
-* María L. Quintana, *Contracting Freedom: Race, Empire, and U.S. Guestworker Programs* (2022)  
-* Vicki L. Ruiz, “Nuestra América: Latino History as United States History,” *Journal of American History* 93, no. 3 (December 2006): 655–672  
-* Seema Sohi, *Echoes of Mutiny: Race, Surveillance, and Indian Anticolonialism in North America* (2014)  
-* Chris Suh, *The Allure of Empire: American Encounters with Asians in the Age of Transpacific Expansion and Exclusion* (2023)  
-* Dorothy B. Fujita-Rony, *American Workers, Colonial Power: Philippine Seattle and the Transpacific West, 1919–1941* (2003)  
+* Eiichiro Azuma, *Between Two Empires: Race, History, and Transnationalism in Japanese America* (2005)
+* Rick Baldoz, *The Third Asiatic Invasion: Empire and Migration in Filipino America, 1898–1946* (2011)
+* Catherine Ceniza Choy, *Empire of Care: Nursing and Migration in Filipino American History* (2003)
+* Kaysha Corinealdi, *Panama in Black: Afro-Caribbean World Making in the Twentieth Century* (2022)
+* Donna R. Gabaccia, *Foreign Relations: American Immigration in Global Perspective* (2012)
+* Ismael García-Colón, *Colonial Migrants at the Heart of Empire: Puerto Rican Workers on U.S. Farms* (2020)
+* Juan González, *Harvest of Empire: A History of Latinos in America* (2022)
+* Julie Greene, *The Canal Builders: Making America’s Empire at the Panama Canal* (2009)
+* Frank Andre Guridy, *Forging Diaspora: Afro-Cubans and African Americans in a World of Empire and Jim Crow* (2010)
+* Jesse Hoffnung-Garskof, *A Tale of Two Cities: Santo Domingo and New York after 1950* (2008)
+* Moon-Ho Jung, *Menace to Empire: Anticolonial Solidarities and the Transpacific Origins of the U.S. Security State* (2022)
+* Paul A. Kramer, “The Geopolitics of Mobility: Immigration Policy and American Global Power in the Long Twentieth Century,” *American Historical Review* 123, no.2 (April 2018): 393–438
+* Adrian De Leon, *Bundok: A Hinterland History of Filipino America* (2023)
+* Adrian De Leon, “Frank Mancao's ‘Pinoy Image’: Photography, Masculinity, and Respectability in Depression-Era California,” *Journal of American Ethnic History* 41, no. 2 (Winter 2022): 58–94
+* Simeon Man, *Soldiering through Empire: Race and the Making of the Decolonizing Pacific* (2018)
+* Alaina M. Morgan, *Atlantic Crescent: Building Geographies of Black and Muslim Liberation in the African Diaspora* (2025)
+* María L. Quintana, *Contracting Freedom: Race, Empire, and U.S. Guestworker Programs* (2022)
+* Vicki L. Ruiz, “Nuestra América: Latino History as United States History,” *Journal of American History* 93, no. 3 (December 2006): 655–672
+* Seema Sohi, *Echoes of Mutiny: Race, Surveillance, and Indian Anticolonialism in North America* (2014)
+* Chris Suh, *The Allure of Empire: American Encounters with Asians in the Age of Transpacific Expansion and Exclusion* (2023)
+* Dorothy B. Fujita-Rony, *American Workers, Colonial Power: Philippine Seattle and the Transpacific West, 1919–1941* (2003)
 * Harsha Walia, *Border & Rule: Global Migration, Capitalism, and the Rise of Racist Nationalism* (2021)
 
 ### Resources
 
-* [Documenting the Southeast Asian American Experience](https://web.archive.org/web/20120128020529/http://seaadoc.lib.uci.edu/index.html), UC Irvine (primary source collection)  
-* [The Spanish-American War: The United States Becomes a World Power](https://www.loc.gov/classroom-materials/spanish-american-war-the-united-states-becomes-a-world-power/), Library of Congress (primary source set)  
-* [Pietri, Puerto Rican Obituary](https://www.poetryfoundation.org/poems/58396/puerto-rican-obituary), Poetry Foundation (primary source)  
-* [Puerto Rican Migration to the US](https://dp.la/primary-source-sets/puerto-rican-migration-to-the-us), Digital Public Library of America (primary source set)  
-* [American Empire](https://dp.la/exhibitions/american-empire), Digital Public Library of America (digital exhibit)  
-* [“The History of American Imperialism, From Bloody Conquest to Bird Poop,”](https://www.npr.org/2019/02/18/694700303/the-history-of-american-imperialism-from-bloody-conquest-to-bird-poop) *Fresh Air*, February 18, 2019 (public-facing talk)  
-* [Savage Acts: Wars, Fairs, and Empire 1898-1904](https://ashp.cuny.edu/documentaries-list/savage-acts-wars-fairs-and-empire-1898-1904/) (documentary)   
-* [Primary Documents and the History of American Foreign Relations](https://www.shafr.org/primary-documents-and-history-united-states-foreign-relations), Society for Historians of American Foreign Relations (primary source collection)  
-* “[Harvest of Empire: Juan González on His Landmark Book, Immigration & Consequences of U.S. Imperialism](https://www.democracynow.org/2022/6/13/juan_gonzalez_us_colonialism_ongoing_impact),” *Democracy Now\!,* June 13, 2022 (public-facing talk)  
-* [Harvest of Empire: The Untold Story of Latinos in America](https://film.twn.org/products/harvest-of-empire-the-untold-story-of-latinos-in-america#:~:text=of%20the%20film.-,HARVEST%20OF%20EMPIRE%20provides%20a%20rare%20and%20powerful%20glimpse%20into,Enrique%2C%20and%20poet%20Mart%C3%ADn%20Espada.) (documentary)  
-* [Guantánamo Public Memory Project](https://gitmomemory.org/) (digital history project)  
-* [Asian Americans & Pacific Islanders: A Philadelphia Story](https://www.pbs.org/show/asian-americans-pacific-islanders-philadelphia-story/), PBS, (documentary series)  
+* [Documenting the Southeast Asian American Experience](https://web.archive.org/web/20120128020529/http://seaadoc.lib.uci.edu/index.html), UC Irvine (primary source collection)
+* [The Spanish-American War: The United States Becomes a World Power](https://www.loc.gov/classroom-materials/spanish-american-war-the-united-states-becomes-a-world-power/), Library of Congress (primary source set)
+* [Pietri, Puerto Rican Obituary](https://www.poetryfoundation.org/poems/58396/puerto-rican-obituary), Poetry Foundation (primary source)
+* [Puerto Rican Migration to the US](https://dp.la/primary-source-sets/puerto-rican-migration-to-the-us), Digital Public Library of America (primary source set)
+* [American Empire](https://dp.la/exhibitions/american-empire), Digital Public Library of America (digital exhibit)
+* [“The History of American Imperialism, From Bloody Conquest to Bird Poop,”](https://www.npr.org/2019/02/18/694700303/the-history-of-american-imperialism-from-bloody-conquest-to-bird-poop) *Fresh Air*, February 18, 2019 (public-facing talk)
+* [Savage Acts: Wars, Fairs, and Empire 1898-1904](https://ashp.cuny.edu/documentaries-list/savage-acts-wars-fairs-and-empire-1898-1904/) (documentary) 
+* [Primary Documents and the History of American Foreign Relations](https://www.shafr.org/primary-documents-and-history-united-states-foreign-relations), Society for Historians of American Foreign Relations (primary source collection)
+* “[Harvest of Empire: Juan González on His Landmark Book, Immigration & Consequences of U.S. Imperialism](https://www.democracynow.org/2022/6/13/juan_gonzalez_us_colonialism_ongoing_impact),” *Democracy Now\!,* June 13, 2022 (public-facing talk)
+* [Harvest of Empire: The Untold Story of Latinos in America](https://film.twn.org/products/harvest-of-empire-the-untold-story-of-latinos-in-america#:~:text=of%20the%20film.-,HARVEST%20OF%20EMPIRE%20provides%20a%20rare%20and%20powerful%20glimpse%20into,Enrique%2C%20and%20poet%20Mart%C3%ADn%20Espada.) (documentary)
+* [Guantánamo Public Memory Project](https://gitmomemory.org/) (digital history project)
+* [Asian Americans & Pacific Islanders: A Philadelphia Story](https://www.pbs.org/show/asian-americans-pacific-islanders-philadelphia-story/), PBS, (documentary series)
 * Louis Dalrymple, [School Begins](https://www.loc.gov/pictures/item/2012647459/), 1899, Library of Congress (primary source)
 
 ---------
@@ -277,48 +277,48 @@ Citizenship is often depicted as an immigrant’s natural goal: a mark of succes
 
 ### Scholarship
 
-* Eiichiro Azuma, “Toward a Transnational History of Wartime Japanese Americans: Nisei and Imperial Japan's Race Propaganda,” *Journal of American Ethnic History* 42, no. 2 (Winter 2023): 5–41  
-* Margot Canaday, *The Straight State: Sexuality and Citizenship in Twentieth-Century America* (2009)  
-* Devon W. Carbado, “Racial Naturalization,” *American Quarterly* 57, no. 3 (September 2005): 633–658  
-* Roger Daniels, *Prisoners without Trial: Japanese Americans in World War II* (2004)  
-* Hardeep Dhillon, “The Making of Modern US Citizenship and Alienage: The History of Asian Immigration, Racial Capital, and US Law,” *Law and History Review* 41, no. 1 (2023): 1–42  
-* Hardeep Dhillon and Maddalena Marinari, “Networks of Power and Relationality: US Citizenship and Migration in the Twentieth Century," *Journal of American Ethnic History* 44, no. 4 (2025): 5-13  
-* Sam Erman, *Almost Citizens: Puerto Rico, the U.S. Constitution, and Empire* (2019)  
-* Amanda Frost, *You Are Not American: Citizenship Stripping from Dred Scott to the Dreamers* (2021)  
-* Martha Mabie Gardner, *The Qualities of a Citizen: Women, Immigration, and Citizenship, 1870–1965* (2005)  
-* Gary Gerstle, *American Crucible: Race and Nation in the Twentieth Century* (2001)  
-* Ian Haney López, *White by Law: The Legal Construction of Race* (1996)  
-* Madeline Y. Hsu and Ellen D. Wu, “Smoke and Mirrors": Conditional Inclusion, Model Minorities, and the Pre-1965 Dismantling of Asian Exclusion,” *Journal of American Ethnic History* 34, no. 4 (Summer 2015): 43-65  
-* Julia Rose Kraut, *Threat of Dissent: A History of Ideological Exclusion and Deportation in the United States* (2020)  
-* Robert C. McGreevey, *Borderline Citizens: The United States, Puerto Rico, and the Politics of Colonial Migration* (2018)  
-* Carol Nackenoff and Julie Novkov, *American by Birth: Wong Kim Ark and the Battle for Citizenship* (2022)  
-* Mae M. Ngai, *Impossible Subjects: Illegal Aliens and the Making of Modern America* (2004)  
-* Kunal M. Parker, *Making Foreigners: Immigration and Citizenship Law in America, 1600–2000* (2015)  
-* Marla A. Ramírez, *Banished Citizens: A History of the Mexican American Women Who Endured Repatriation* (2025)  
-* Greg Robinson, *A Tragedy of Democracy: Japanese Confinement in North America* (2009)  
-* Brendan Shanahan, *Disparate Regimes: Nativist Politics, Alienage Law, and Citizenship Rights in the United States, 1865-1965* (2025)  
-* Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in Twentieth-Century New York City* (2010)  
-* Omar S. Valerio-Jiménez, *Remembering Conquest: Mexican Americans, Memory, and Citizenship* (2024)  
+* Eiichiro Azuma, “Toward a Transnational History of Wartime Japanese Americans: Nisei and Imperial Japan's Race Propaganda,” *Journal of American Ethnic History* 42, no. 2 (Winter 2023): 5–41
+* Margot Canaday, *The Straight State: Sexuality and Citizenship in Twentieth-Century America* (2009)
+* Devon W. Carbado, “Racial Naturalization,” *American Quarterly* 57, no. 3 (September 2005): 633–658
+* Roger Daniels, *Prisoners without Trial: Japanese Americans in World War II* (2004)
+* Hardeep Dhillon, “The Making of Modern US Citizenship and Alienage: The History of Asian Immigration, Racial Capital, and US Law,” *Law and History Review* 41, no. 1 (2023): 1–42
+* Hardeep Dhillon and Maddalena Marinari, “Networks of Power and Relationality: US Citizenship and Migration in the Twentieth Century," *Journal of American Ethnic History* 44, no. 4 (2025): 5-13
+* Sam Erman, *Almost Citizens: Puerto Rico, the U.S. Constitution, and Empire* (2019)
+* Amanda Frost, *You Are Not American: Citizenship Stripping from Dred Scott to the Dreamers* (2021)
+* Martha Mabie Gardner, *The Qualities of a Citizen: Women, Immigration, and Citizenship, 1870–1965* (2005)
+* Gary Gerstle, *American Crucible: Race and Nation in the Twentieth Century* (2001)
+* Ian Haney López, *White by Law: The Legal Construction of Race* (1996)
+* Madeline Y. Hsu and Ellen D. Wu, “Smoke and Mirrors": Conditional Inclusion, Model Minorities, and the Pre-1965 Dismantling of Asian Exclusion,” *Journal of American Ethnic History* 34, no. 4 (Summer 2015): 43-65
+* Julia Rose Kraut, *Threat of Dissent: A History of Ideological Exclusion and Deportation in the United States* (2020)
+* Robert C. McGreevey, *Borderline Citizens: The United States, Puerto Rico, and the Politics of Colonial Migration* (2018)
+* Carol Nackenoff and Julie Novkov, *American by Birth: Wong Kim Ark and the Battle for Citizenship* (2022)
+* Mae M. Ngai, *Impossible Subjects: Illegal Aliens and the Making of Modern America* (2004)
+* Kunal M. Parker, *Making Foreigners: Immigration and Citizenship Law in America, 1600–2000* (2015)
+* Marla A. Ramírez, *Banished Citizens: A History of the Mexican American Women Who Endured Repatriation* (2025)
+* Greg Robinson, *A Tragedy of Democracy: Japanese Confinement in North America* (2009)
+* Brendan Shanahan, *Disparate Regimes: Nativist Politics, Alienage Law, and Citizenship Rights in the United States, 1865-1965* (2025)
+* Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in Twentieth-Century New York City* (2010)
+* Omar S. Valerio-Jiménez, *Remembering Conquest: Mexican Americans, Memory, and Citizenship* (2024)
 * Naoko Wake, “Asian American Disability: A History and Its Archives,” *Journal of American Ethnic History* 43, no. 3 (Spring 2024): 5–33
 
 ### Resources
 
-* [Ex parte Endo (323 US 283\)](https://supreme.justia.com/cases/federal/us/323/283/), U.S. Supreme Court (primary source)  
-* [Hirabayashi v. US Hirabayashi v. United States](https://www.law.cornell.edu/supremecourt/text/320/81) (320 U.S. 81, 63 S.Ct. 1375, June 21, 1943), Cornell University Law Library (primary source)  
-* John F. Kennedy, [A Nation of Immigrants](https://babel.hathitrust.org/cgi/pt?id=uc1.31210012341721&seq=5), 1963, HathiTrust (primary source)  
-* [Korematsu v. United States, 323 U.S. 214 (1944)](https://supreme.justia.com/cases/federal/us/323/214/), U.S. Supreme Court (primary source)  
-* [Whom Shall We Welcome](https://archive.org/details/whomweshallwelco00unit), U.S. President’s Commission on Immigration and Naturalization, 1953 (primary source)  
-* [Minoru Yasui v. United States (320 US 115, June 21, 1943\)](https://www.law.cornell.edu/supremecourt/text/320/115), Cornell University Law Library (primary source)  
-* [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights), United Nations (primary source)  
-* A Family Gathering (documentary)  
-* [America and the Holocaust: Deceit and Indifference](https://www.youtube.com/watch?v=ZG1GR61qkls) (documentary)  
-* “[Carlos Eire: A Cuban-American Searches For Roots](https://www.npr.org/2010/11/22/131449904/carlos-eire-a-cuban-american-searches-for-roots),” *Fresh Air* (author interview)  
-* [Densho: The Japanese American Legacy Project](https://densho.org/), Densho, (multimedia website)  
-* [Witness: The Legacy of Heart Mountain](https://vimeo.com/68246355) (documentary)  
-* [The Zoot Suit Riots](https://www.youtube.com/watch?v=pWyviiYaMjg) (documentary)  
-* [Voces Oral History Project](https://voces.moody.utexas.edu/), The University of Texas, Austin (oral history archive)  
-* Hana C. Maruyama, “[On Common Ground: Concentration Camps in the ‘Home of the Free’ at the Southwest Border and in History](https://abusablepast.org/forum-3-3-on-common-ground-concentration-camps-in-the-home-of-the-free-at-the-southwest-border-and-in-history-by-hana-c-maruyama/),” *The Abusable Past*, September 10, 2019 (public-facing article)  
-* [Campu](https://densho.org/campu/) (podcast)  
+* [Ex parte Endo (323 US 283\)](https://supreme.justia.com/cases/federal/us/323/283/), U.S. Supreme Court (primary source)
+* [Hirabayashi v. US Hirabayashi v. United States](https://www.law.cornell.edu/supremecourt/text/320/81) (320 U.S. 81, 63 S.Ct. 1375, June 21, 1943), Cornell University Law Library (primary source)
+* John F. Kennedy, [A Nation of Immigrants](https://babel.hathitrust.org/cgi/pt?id=uc1.31210012341721&seq=5), 1963, HathiTrust (primary source)
+* [Korematsu v. United States, 323 U.S. 214 (1944)](https://supreme.justia.com/cases/federal/us/323/214/), U.S. Supreme Court (primary source)
+* [Whom Shall We Welcome](https://archive.org/details/whomweshallwelco00unit), U.S. President’s Commission on Immigration and Naturalization, 1953 (primary source)
+* [Minoru Yasui v. United States (320 US 115, June 21, 1943\)](https://www.law.cornell.edu/supremecourt/text/320/115), Cornell University Law Library (primary source)
+* [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights), United Nations (primary source)
+* A Family Gathering (documentary)
+* [America and the Holocaust: Deceit and Indifference](https://www.youtube.com/watch?v=ZG1GR61qkls) (documentary)
+* “[Carlos Eire: A Cuban-American Searches For Roots](https://www.npr.org/2010/11/22/131449904/carlos-eire-a-cuban-american-searches-for-roots),” *Fresh Air* (author interview)
+* [Densho: The Japanese American Legacy Project](https://densho.org/), Densho, (multimedia website)
+* [Witness: The Legacy of Heart Mountain](https://vimeo.com/68246355) (documentary)
+* [The Zoot Suit Riots](https://www.youtube.com/watch?v=pWyviiYaMjg) (documentary)
+* [Voces Oral History Project](https://voces.moody.utexas.edu/), The University of Texas, Austin (oral history archive)
+* Hana C. Maruyama, “[On Common Ground: Concentration Camps in the ‘Home of the Free’ at the Southwest Border and in History](https://abusablepast.org/forum-3-3-on-common-ground-concentration-camps-in-the-home-of-the-free-at-the-southwest-border-and-in-history-by-hana-c-maruyama/),” *The Abusable Past*, September 10, 2019 (public-facing article)
+* [Campu](https://densho.org/campu/) (podcast)
 * [Japanese American Internment During World War II](https://dp.la/primary-source-sets/japanese-american-internment-during-world-war-ii), Digital Public Library of America (primary source set)
 
 ---------
@@ -328,32 +328,32 @@ Labor has long been a driving force in the history of immigration. The work of i
 
 ### Scholarship
 
-* David Bacon, *Illegal People: How Globalization Creates Migration and Criminalizes Immigrants* (2008)  
-* Deborah Cohen, *Braceros: Migrant Citizens and Transnational Subjects in the Postwar United States and Mexico* (2011)  
-* Lizabeth Cohen, *Making a New Deal: Industrial Workers in Chicago, 1919–1939* (2014)  
-* Stacy D. Fahrenthold, *Unmentionables: Textiles, Garment Work, and the Syrian American Working Class* (2025)  
-* Leon Fink, *The Maya of Morganton: Work and Community in the Nuevo New South* (2003)  
-* Lori A. Flores, *Grounds for Dreaming: Mexican Americans, Mexican Immigrants, and the California Farmworker Movement* (2016)  
-* Herbert G. Gutman, “Work, Culture, and Society in Industrializing America, 1815–1919,” *American Historical Review* 78, no. 3 (June 1973): 531–588  
-* Cindy Hahamovitch, *No Man’s Land: Jamaican Guestworkers in America and the Global History of Deportable Labor* (2011)  
-* Pierrette Hondagneu-Sotelo, *Doméstica: Immigrant Workers Cleaning and Caring in the Shadows of Affluence* (2007)  
-* Moon-Ho Jung, *Coolies and Cane: Race, Labor, and Sugar in the Age of Emancipation* (2006)  
-* Manu Karuka, *Empire’s Tracks: Indigenous Nations, Chinese Workers, and the Transcontinental Railroad* (2019)  
-* Mireya Loza, *Defiant Braceros: How Migrant Workers Fought for Racial, Sexual, and Political Freedom* (2016)  
-* Sarah McNamara, *Ybor City: Crucible of the Latina South* (2023)  
-* Annelise Orleck, *Common Sense and a Little Fire: Women and Working-Class Politics in the United States, 1900–1965* (1995)  
-* Vicki L. Ruiz, *From Out of the Shadows: Mexican Women in Twentieth-Century America, 10th anniversary ed.* (2008)  
-* Nayan Shah, *Stranger Intimacy: Contesting Race, Sexuality, and the Law in the North American West* (2011)  
-* Peter Way, *Common Labor: Workers and the Digging of North American Canals, 1780–1860* (1993)  
+* David Bacon, *Illegal People: How Globalization Creates Migration and Criminalizes Immigrants* (2008)
+* Deborah Cohen, *Braceros: Migrant Citizens and Transnational Subjects in the Postwar United States and Mexico* (2011)
+* Lizabeth Cohen, *Making a New Deal: Industrial Workers in Chicago, 1919–1939* (2014)
+* Stacy D. Fahrenthold, *Unmentionables: Textiles, Garment Work, and the Syrian American Working Class* (2025)
+* Leon Fink, *The Maya of Morganton: Work and Community in the Nuevo New South* (2003)
+* Lori A. Flores, *Grounds for Dreaming: Mexican Americans, Mexican Immigrants, and the California Farmworker Movement* (2016)
+* Herbert G. Gutman, “Work, Culture, and Society in Industrializing America, 1815–1919,” *American Historical Review* 78, no. 3 (June 1973): 531–588
+* Cindy Hahamovitch, *No Man’s Land: Jamaican Guestworkers in America and the Global History of Deportable Labor* (2011)
+* Pierrette Hondagneu-Sotelo, *Doméstica: Immigrant Workers Cleaning and Caring in the Shadows of Affluence* (2007)
+* Moon-Ho Jung, *Coolies and Cane: Race, Labor, and Sugar in the Age of Emancipation* (2006)
+* Manu Karuka, *Empire’s Tracks: Indigenous Nations, Chinese Workers, and the Transcontinental Railroad* (2019)
+* Mireya Loza, *Defiant Braceros: How Migrant Workers Fought for Racial, Sexual, and Political Freedom* (2016)
+* Sarah McNamara, *Ybor City: Crucible of the Latina South* (2023)
+* Annelise Orleck, *Common Sense and a Little Fire: Women and Working-Class Politics in the United States, 1900–1965* (1995)
+* Vicki L. Ruiz, *From Out of the Shadows: Mexican Women in Twentieth-Century America, 10th anniversary ed.* (2008)
+* Nayan Shah, *Stranger Intimacy: Contesting Race, Sexuality, and the Law in the North American West* (2011)
+* Peter Way, *Common Labor: Workers and the Digging of North American Canals, 1780–1860* (1993)
 * Carmen Teresa Whalen, *From Puerto Rico to Philadelphia: Puerto Rican Workers and Postwar Economies* (2001)
 
 ### Resources
 
-* [Bracero History Archive](https://braceroarchive.org/), Bracero History Archive (primary source collection)  
-* [H-2 Worker](https://www.imdb.com/title/tt0123097/) (documentary)  
-* [Harvest of Dignity](https://saf-unite.org/documentary_/harvest-of-dignity/)*,* Student Action with Farmworkers (documentary)  
-* [Mexican Labor and World War II: The Bracero Program](https://dp.la/primary-source-sets/mexican-labor-and-world-war-ii-the-bracero-program), Bracero History Archive (oral history collection)  
-* [Corazón de Dixie: Mexicanos in the U.S. South since 1910](https://www.corazondedixie.org/), Julie M. Weise (primary source collection, companion to the book of the same name)  
+* [Bracero History Archive](https://braceroarchive.org/), Bracero History Archive (primary source collection)
+* [H-2 Worker](https://www.imdb.com/title/tt0123097/) (documentary)
+* [Harvest of Dignity](https://saf-unite.org/documentary_/harvest-of-dignity/)*,* Student Action with Farmworkers (documentary)
+* [Mexican Labor and World War II: The Bracero Program](https://dp.la/primary-source-sets/mexican-labor-and-world-war-ii-the-bracero-program), Bracero History Archive (oral history collection)
+* [Corazón de Dixie: Mexicanos in the U.S. South since 1910](https://www.corazondedixie.org/), Julie M. Weise (primary source collection, companion to the book of the same name)
 * [Triangle Fire](https://www.pbs.org/wgbh/americanexperience/films/triangle/), American Experience (documentary)
 
 ---------
@@ -363,39 +363,39 @@ After World War II, new pressures related to global decolonization and U.S. fore
 
 ### Scholarship
 
-* Leisy J. Abrego, *Sacrificing Families: Navigating Laws, Labor, and Love across Borders* (2014)  
-* Yvette M. Alex-Assensoh, “African Immigrants and African-Americans: An Analysis of Voluntary African Immigration and the Evolution of Black Ethnic Politics in America,” *African and Asian Studies* 8 no.1-2, (March 2009): 89-124  
-* Danielle Battisti, *Whom We Shall Welcome: Italian Americans and Immigration Reform, 1945–1965* (2019)  
-* Gabriel J. Chin and Rose Cuison Villazor, *The Immigration and Nationality Act of 1965: Legislating a New America* (2015)  
-* Nancy Foner, *From Ellis Island to JFK: New York’s Two Great Waves of Immigration* (2000)  
-* María Cristina García and Maddalena Marinari, eds., *Whose America? U.S. Immigration Policy since 1980* (2023)  
-* Carly Goodman, *Dreamland: America’s Immigration Lottery in an Age of Restriction* (2023)  
-* Marilyn Halter and Violet Showers Johnson, *African & American: West Africans in Post–Civil Rights America* (2014)  
-* Jane H. Hong, *Opening the Gates to Asia: A Transpacific History of How America Repealed Asian Exclusion* (2019)  
-* Madeline Y. Hsu, *The Good Immigrants: How the Yellow Peril Became the Model Minority* (2015)  
-* Roberto Lovato, *Unforgetting: A Memoir of Family, Migration, Gangs, and Revolution in the Americas* (2020)  
-* Cecilia Márquez, *Making the Latino South: A History of Racial Formation* (2023)  
-* Maddalena Marinari, “‘Americans Must Show Justice in Immigration Policies Too’: The Passage of the 1965 Immigration Act,” *Journal of Policy History* 26, no.2 (April 2014): 219-245  
-* Douglas S. Massey and Karen A. Pren, “Unintended Consequences of U.S. Immigration Policy: Explaining the Post-1965 Surge from Latin America,” *Population and Development Review* 38, no. 1 (March 2012): 1–29.  
-* Ana Raquel Minian, *Undocumented Lives: The Untold Story of Mexican Migration* (2018)  
-* Arissa H. Oh, *To Save the Children of Korea: The Cold War Origins of International Adoption* (2015)  
-* Alejandro Portes and Rubén G. Rumbaut, *Immigrant America: A Portrait, 4th ed.* (2014)  
-* Uzma Quraishi, *Redefining the Immigrant South: Indian and Pakistani Immigration to Houston during the Cold War* (2020)  
-* Erik R. Scott, *Defectors: How the Illicit Flight of Soviet Citizens Built the Borders of the Cold War World* (2023)  
+* Leisy J. Abrego, *Sacrificing Families: Navigating Laws, Labor, and Love across Borders* (2014)
+* Yvette M. Alex-Assensoh, “African Immigrants and African-Americans: An Analysis of Voluntary African Immigration and the Evolution of Black Ethnic Politics in America,” *African and Asian Studies* 8 no.1-2, (March 2009): 89-124
+* Danielle Battisti, *Whom We Shall Welcome: Italian Americans and Immigration Reform, 1945–1965* (2019)
+* Gabriel J. Chin and Rose Cuison Villazor, *The Immigration and Nationality Act of 1965: Legislating a New America* (2015)
+* Nancy Foner, *From Ellis Island to JFK: New York’s Two Great Waves of Immigration* (2000)
+* María Cristina García and Maddalena Marinari, eds., *Whose America? U.S. Immigration Policy since 1980* (2023)
+* Carly Goodman, *Dreamland: America’s Immigration Lottery in an Age of Restriction* (2023)
+* Marilyn Halter and Violet Showers Johnson, *African & American: West Africans in Post–Civil Rights America* (2014)
+* Jane H. Hong, *Opening the Gates to Asia: A Transpacific History of How America Repealed Asian Exclusion* (2019)
+* Madeline Y. Hsu, *The Good Immigrants: How the Yellow Peril Became the Model Minority* (2015)
+* Roberto Lovato, *Unforgetting: A Memoir of Family, Migration, Gangs, and Revolution in the Americas* (2020)
+* Cecilia Márquez, *Making the Latino South: A History of Racial Formation* (2023)
+* Maddalena Marinari, “‘Americans Must Show Justice in Immigration Policies Too’: The Passage of the 1965 Immigration Act,” *Journal of Policy History* 26, no.2 (April 2014): 219-245
+* Douglas S. Massey and Karen A. Pren, “Unintended Consequences of U.S. Immigration Policy: Explaining the Post-1965 Surge from Latin America,” *Population and Development Review* 38, no. 1 (March 2012): 1–29.
+* Ana Raquel Minian, *Undocumented Lives: The Untold Story of Mexican Migration* (2018)
+* Arissa H. Oh, *To Save the Children of Korea: The Cold War Origins of International Adoption* (2015)
+* Alejandro Portes and Rubén G. Rumbaut, *Immigrant America: A Portrait, 4th ed.* (2014)
+* Uzma Quraishi, *Redefining the Immigrant South: Indian and Pakistani Immigration to Houston during the Cold War* (2020)
+* Erik R. Scott, *Defectors: How the Illicit Flight of Soviet Citizens Built the Borders of the Cold War World* (2023)
 * Mary C. Waters, Reed Ueda, and Helen B. Marrow, eds., *The New Americans: A Guide to Immigration since 1965* (2007)
 
 ### Resources
-* [First Days Project](https://firstdays.saada.org/), South Asian American Digital Archive (oral history collection)  
-* [The 1965 Immigration and Nationality Act](https://docsteach.org/document/immigration-and-nationality-act-of-1965/), DocsTeach (primary source)  
-* Lyndon Baines Johnson, [Special Message to the Congress on Immigration](https://www.presidency.ucsb.edu/documents/special-message-the-congress-immigration-0), January 13, 1965 (primary source)  
-* Lyndon Baines Johnson, [Remarks at the Signing of the Immigration Bill, Liberty Island, New York](https://www.presidency.ucsb.edu/documents/remarks-the-signing-the-immigration-bill-liberty-island-new-york), The American Presidency Project (primary source collection)  
-* Ronald Reagan, [Remarks on Signing the Immigration Reform and Control Act of 1986](https://www.reaganlibrary.gov/archives/speech/remarks-signing-immigration-reform-and-control-act-1986), Ronald Reagan President Library & Museum (primary source)   
-* Muzaffar Chishti, Faye Hipsman, and Isabel Ball, “[Fifty Years On, the 1965 Immigration and Nationality Act Continues to Reshape the United States](https://www.migrationpolicy.org/article/fifty-years-1965-immigration-and-nationality-act-continues-reshape-united-states),” Migration Policy Institute, October 15, 2015 (public-facing article)  
-* [Latino Americans](https://www.pbs.org/latino-americans/en/), PBS (documentary series)  
-* [Immigrant Stories](https://cla.umn.edu/ihrc/immigrant-stories), Immigration History Research Center (primary source collection)  
-* [A Pastoral Letter Concerning Migration from the Catholic Bishops of Mexico and the United States](https://www.usccb.org/issues-and-action/human-life-and-dignity/immigration/strangers-no-longer-together-on-the-journey-of-hope), 2003 (primary source document)  
-* [The Archive of Immigrant Voices](https://archiveofimmigrantvoices.omeka.net/), The Center for Global Migration Studies at the University of Maryland, College Park (interview collection)  
-* [Minnesota Immigrant Oral Histories](https://mnhs.gitlab.io/archive/minnesota-immigrant-oral-histories/collections.mnhs.org/ioh/index.html), Minnesota Historical Society (oral history collection)  
+* [First Days Project](https://firstdays.saada.org/), South Asian American Digital Archive (oral history collection)
+* [The 1965 Immigration and Nationality Act](https://docsteach.org/document/immigration-and-nationality-act-of-1965/), DocsTeach (primary source)
+* Lyndon Baines Johnson, [Special Message to the Congress on Immigration](https://www.presidency.ucsb.edu/documents/special-message-the-congress-immigration-0), January 13, 1965 (primary source)
+* Lyndon Baines Johnson, [Remarks at the Signing of the Immigration Bill, Liberty Island, New York](https://www.presidency.ucsb.edu/documents/remarks-the-signing-the-immigration-bill-liberty-island-new-york), The American Presidency Project (primary source collection)
+* Ronald Reagan, [Remarks on Signing the Immigration Reform and Control Act of 1986](https://www.reaganlibrary.gov/archives/speech/remarks-signing-immigration-reform-and-control-act-1986), Ronald Reagan President Library & Museum (primary source) 
+* Muzaffar Chishti, Faye Hipsman, and Isabel Ball, “[Fifty Years On, the 1965 Immigration and Nationality Act Continues to Reshape the United States](https://www.migrationpolicy.org/article/fifty-years-1965-immigration-and-nationality-act-continues-reshape-united-states),” Migration Policy Institute, October 15, 2015 (public-facing article)
+* [Latino Americans](https://www.pbs.org/latino-americans/en/), PBS (documentary series)
+* [Immigrant Stories](https://cla.umn.edu/ihrc/immigrant-stories), Immigration History Research Center (primary source collection)
+* [A Pastoral Letter Concerning Migration from the Catholic Bishops of Mexico and the United States](https://www.usccb.org/issues-and-action/human-life-and-dignity/immigration/strangers-no-longer-together-on-the-journey-of-hope), 2003 (primary source document)
+* [The Archive of Immigrant Voices](https://archiveofimmigrantvoices.omeka.net/), The Center for Global Migration Studies at the University of Maryland, College Park (interview collection)
+* [Minnesota Immigrant Oral Histories](https://mnhs.gitlab.io/archive/minnesota-immigrant-oral-histories/collections.mnhs.org/ioh/index.html), Minnesota Historical Society (oral history collection)
 * [South Asian Oral History Project](https://content.lib.washington.edu/saohcweb/index.html), University of Washington Library (oral history collection)
 
 ---------
@@ -405,37 +405,37 @@ Thomas Paine’s aspirational invocation of the United States as an “asylum fo
 
 ### Scholarship
 
-* Melissa May Borja, *Follow the New Way: American Refugee Resettlement Policy and Hmong Religious Change* (2023)  
-* Carl J. Bon Tempo, *Americans at the Gate: The United States and Refugees during the Cold War* (2008)  
-* Julio Capó Jr, “Queering Mariel: Mediating Cold War Foreign Policy and U.S. Citizenship among Cuba's Homosexual Exile Community, 1978-1994,” *Journal of American Ethnic History* 29, no. 4 (Summer 2010): 78-106  
-* Yến Lê Espiritu, *Body Counts: The Vietnam War and Militarized Refuge(es)* (2014)  
-* Yến Lê Espiritu et al., *Departures An Introduction to Critical Refugee Studies* (2022)  
-* David FitzGerald, *Refuge Beyond Reach: How Rich Democracies Repel Asylum Seekers* (2019)  
-* María Cristina García, *Havana USA: Cuban Exiles and Cuban Americans in South Florida, 1959–1994* (1996)  
-* María Cristina García, *The Refugee Challenge in Post–Cold War America* (2017)  
-* Paul A. Kramer, “Unsettled Subjects: Inventing the Refugee in North American History,” *Journal of American Ethnic History* 39, no.3 (Spring 2020): 5-16  
-* Jana K. Lipman, *In Camps: Vietnamese Refugees, Asylum Seekers, and Repatriates* (2020)  
-* Laura Madokoro, *Elusive Refuge: Chinese Migrants in the Cold War* (2017)  
-* Yael Schacher, “Return of the Repressed: Asylum in the 1920s and Today,” *Journal of American History* 109, no.2 (September 2022): 375–387  
-* Eric Tang, *Unsettled: Cambodian Refugees in the New York City Hyperghetto* (2015)  
-* Cecilia M. Tsu, “‘If You Want to Plow Your Field, Don’t Kill Your Buffalo to Eat’: Hmong Farm Cooperatives and Refugee Resettlement in 1980s Minnesota,” *Journal of American Ethnic History* 36, no. 3 (Spring 2017): 38–73  
+* Melissa May Borja, *Follow the New Way: American Refugee Resettlement Policy and Hmong Religious Change* (2023)
+* Carl J. Bon Tempo, *Americans at the Gate: The United States and Refugees during the Cold War* (2008)
+* Julio Capó Jr, “Queering Mariel: Mediating Cold War Foreign Policy and U.S. Citizenship among Cuba's Homosexual Exile Community, 1978-1994,” *Journal of American Ethnic History* 29, no. 4 (Summer 2010): 78-106
+* Yến Lê Espiritu, *Body Counts: The Vietnam War and Militarized Refuge(es)* (2014)
+* Yến Lê Espiritu et al., *Departures An Introduction to Critical Refugee Studies* (2022)
+* David FitzGerald, *Refuge Beyond Reach: How Rich Democracies Repel Asylum Seekers* (2019)
+* María Cristina García, *Havana USA: Cuban Exiles and Cuban Americans in South Florida, 1959–1994* (1996)
+* María Cristina García, *The Refugee Challenge in Post–Cold War America* (2017)
+* Paul A. Kramer, “Unsettled Subjects: Inventing the Refugee in North American History,” *Journal of American Ethnic History* 39, no.3 (Spring 2020): 5-16
+* Jana K. Lipman, *In Camps: Vietnamese Refugees, Asylum Seekers, and Repatriates* (2020)
+* Laura Madokoro, *Elusive Refuge: Chinese Migrants in the Cold War* (2017)
+* Yael Schacher, “Return of the Repressed: Asylum in the 1920s and Today,” *Journal of American History* 109, no.2 (September 2022): 375–387
+* Eric Tang, *Unsettled: Cambodian Refugees in the New York City Hyperghetto* (2015)
+* Cecilia M. Tsu, “‘If You Want to Plow Your Field, Don’t Kill Your Buffalo to Eat’: Hmong Farm Cooperatives and Refugee Resettlement in 1980s Minnesota,” *Journal of American Ethnic History* 36, no. 3 (Spring 2017): 38–73
 * Domenic Vitiello, *The Sanctuary City: Immigrant, Refugee, and Receiving Communities in Postindustrial Philadelphia* (2022)
 
 ### Resources
-* [Text of the 1951 Convention Relating to the Status of Refugees and Text of the 1967 Protocol Relating to the Status of Refugees](https://www.unhcr.org/us/media/convention-and-protocol-relating-status-refugees), United Nations (primary source)  
-* [The 1980 Refugee Act](https://archivesfoundation.org/documents/refugee-act-1980/), National Archives Foundation (primary source)  
-* Sarah Corbett, “[The Lost Boys of Sudan: The Long, Long, Long Road to Fargo](https://www.nytimes.com/2001/04/01/magazine/the-lost-boys-of-sudan-the-long-long-long-road-to-fargo.html),” *New York Times Magazine*, April 1, 2001 (public-facing article)  
-* First They Killed My Father: A Daughter of Cambodia Remembers (documentary)  
-* [Lost Boys of Sudan](https://www.pbs.org/video/pov-lost-boys-sudan/), PBS (documentary series)  
-* The Betrayal: Nerakhoon (documentary)  
-* [Crossing Over: Stories of Immigration and Identity](https://vimeo.com/114141133) (documentary)  
-* Evan Taparata and Rachel Ida Buff, “[Refuge: Denied. Asylum: Pending](https://www.publicbooks.org/refuge-denied-asylum-pending/),” *Public Books* July 8, 2021 (public-facing article)  
-* “[The Out Crowd](https://www.thisamericanlife.org/704/our-pulitzer-winning-episode),” *This American Life*, May 15, 2020 (podcast)  
-* [The Other Side of the Water:  Immigration and the Promise of Racial Justice](https://www.jeanvnelson35.org/podcast), NYU School of Law (podcast series)  
-* [Well Founded Fear](https://www.pbs.org/video/pov-well-founded-fear/), PBS (documentary)  
-* [Refugee History](https://refugeehistory.org/) (digital exhibit)  
-* [Cuban Immigration After the Revolution](https://dp.la/primary-source-sets/cuban-immigration-after-the-revolution-1959-1973), Digital Public Library of America (primary source set)  
-* [Digital Stories](https://www.greencardvoices.org/digital-stories/), Green Card Voices (oral history collection)  
+* [Text of the 1951 Convention Relating to the Status of Refugees and Text of the 1967 Protocol Relating to the Status of Refugees](https://www.unhcr.org/us/media/convention-and-protocol-relating-status-refugees), United Nations (primary source)
+* [The 1980 Refugee Act](https://archivesfoundation.org/documents/refugee-act-1980/), National Archives Foundation (primary source)
+* Sarah Corbett, “[The Lost Boys of Sudan: The Long, Long, Long Road to Fargo](https://www.nytimes.com/2001/04/01/magazine/the-lost-boys-of-sudan-the-long-long-long-road-to-fargo.html),” *New York Times Magazine*, April 1, 2001 (public-facing article)
+* First They Killed My Father: A Daughter of Cambodia Remembers (documentary)
+* [Lost Boys of Sudan](https://www.pbs.org/video/pov-lost-boys-sudan/), PBS (documentary series)
+* The Betrayal: Nerakhoon (documentary)
+* [Crossing Over: Stories of Immigration and Identity](https://vimeo.com/114141133) (documentary)
+* Evan Taparata and Rachel Ida Buff, “[Refuge: Denied. Asylum: Pending](https://www.publicbooks.org/refuge-denied-asylum-pending/),” *Public Books* July 8, 2021 (public-facing article)
+* “[The Out Crowd](https://www.thisamericanlife.org/704/our-pulitzer-winning-episode),” *This American Life*, May 15, 2020 (podcast)
+* [The Other Side of the Water:Immigration and the Promise of Racial Justice](https://www.jeanvnelson35.org/podcast), NYU School of Law (podcast series)
+* [Well Founded Fear](https://www.pbs.org/video/pov-well-founded-fear/), PBS (documentary)
+* [Refugee History](https://refugeehistory.org/) (digital exhibit)
+* [Cuban Immigration After the Revolution](https://dp.la/primary-source-sets/cuban-immigration-after-the-revolution-1959-1973), Digital Public Library of America (primary source set)
+* [Digital Stories](https://www.greencardvoices.org/digital-stories/), Green Card Voices (oral history collection)
 * [Viet Stories: Vietnamese American Oral History project](https://calisphere.org/collections/36/), Calisphere, University of California (oral history project)
 
 ---------
@@ -446,24 +446,24 @@ Immigration is a fundamentally communal process, and in all eras immigrants have
 
 ### Scholarship
 
-* Vivek Bald, *Bengali Harlem and the Lost Histories of South Asian America* (2013)  
-* Llana Barber, *Latino City: Immigration and Urban Crisis in Lawrence, Massachusetts, 1945–2000* (2017)  
-* Julio Capó, *Welcome to Fairyland: Queer Miami before 1940* (2017)  
-* Mike Amezcua, *Making Mexican Chicago: From Postwar Settlement to the Age of Gentrification* (2023)  
-* Lilia Fernández, *Brown in the Windy City: Mexicans and Puerto Ricans in Postwar Chicago* (2012)  
-* Sergio M. González, *Strangers No Longer: Latino Belonging and Faith in Twentieth-Century Wisconsin* (2024)  
-* Adam McKeown, *Chinese Migrant Networks and Cultural Change: Peru, Chicago, Hawaii, 1900–1936* (2001)  
-* Natalia Molina, *A Place at the Nayarit: How a Mexican Restaurant Nourished a Community* (2022)  
-* Robert A. Orsi, *The Madonna of 115th Street: Faith and Community in Italian Harlem, 1880–1950, 3rd ed.* (2010)  
-* George J. Sánchez, *Becoming Mexican American: Ethnicity, Culture, and Identity in Chicano Los Angeles, 1900–1945* (1993)  
-* A. K. Sandoval-Strausz, *Barrio America: How Latino Immigrants Saved the American City* (2019)  
-* James Zarsadiaz, *Resisting Change in Suburbia: Asian Immigrants and Frontier Nostalgia in L.A.* (2022)  
+* Vivek Bald, *Bengali Harlem and the Lost Histories of South Asian America* (2013)
+* Llana Barber, *Latino City: Immigration and Urban Crisis in Lawrence, Massachusetts, 1945–2000* (2017)
+* Julio Capó, *Welcome to Fairyland: Queer Miami before 1940* (2017)
+* Mike Amezcua, *Making Mexican Chicago: From Postwar Settlement to the Age of Gentrification* (2023)
+* Lilia Fernández, *Brown in the Windy City: Mexicans and Puerto Ricans in Postwar Chicago* (2012)
+* Sergio M. González, *Strangers No Longer: Latino Belonging and Faith in Twentieth-Century Wisconsin* (2024)
+* Adam McKeown, *Chinese Migrant Networks and Cultural Change: Peru, Chicago, Hawaii, 1900–1936* (2001)
+* Natalia Molina, *A Place at the Nayarit: How a Mexican Restaurant Nourished a Community* (2022)
+* Robert A. Orsi, *The Madonna of 115th Street: Faith and Community in Italian Harlem, 1880–1950, 3rd ed.* (2010)
+* George J. Sánchez, *Becoming Mexican American: Ethnicity, Culture, and Identity in Chicano Los Angeles, 1900–1945* (1993)
+* A. K. Sandoval-Strausz, *Barrio America: How Latino Immigrants Saved the American City* (2019)
+* James Zarsadiaz, *Resisting Change in Suburbia: Asian Immigrants and Frontier Nostalgia in L.A.* (2022)
 * Xiaojian Zhao, *Remaking Chinese America: Immigration, Family, and Community, 1940–1965* (2002)
 
 ### Resources
-* [Global Boston: A Portal to the Region’s Immigrant Past and Present](https://globalboston.bc.edu/), Boston College (digital history project)  
-* [Collections and Connections](https://jaha.jcccnc.org/), Japanese American History Archives-Seizo Oka Collection (JAHA) (digital history collection)  
-* [South Asian American Digital Archive](https://www.saada.org/) (digital history and archives)  
+* [Global Boston: A Portal to the Region’s Immigrant Past and Present](https://globalboston.bc.edu/), Boston College (digital history project)
+* [Collections and Connections](https://jaha.jcccnc.org/), Japanese American History Archives-Seizo Oka Collection (JAHA) (digital history collection)
+* [South Asian American Digital Archive](https://www.saada.org/) (digital history and archives)
 * [Your Story, Our Story](https://yourstory.tenement.org/stories), Tenement Museum (digital storytelling project)
 
 
@@ -472,72 +472,72 @@ Immigrants have played a crucial role in movements for social justice in the Uni
 
 ### Scholarship
 
-* Emma Amador, *The Politics of Care Work Puerto Rican Women Organizing for Social Justice* (2025)  
-* Xóchitl Bada and Shannon Gleeson, eds., *Accountability across Borders: Migrant Rights in North America* (2019)  
-* Eladio B. Bobadilla, *Dangerous Migration Mexican Labor and the Fight for Immigrant Rights* (2026)  
-* Aviva Chomsky, *Undocumented: How Immigration Became Illegal* (2014)  
-* Sarah R. Coleman, *The Walls Within: The Politics of Immigration in Modern America* (2021)  
-* Johanna Fernández, *The Young Lords: A Radical History* (2020)  
-* Angela S. García, *Legal Passing: Navigating Undocumented Life and Local Immigration Law* (2019)  
-* Jennifer Guglielmo, *Living the Revolution: Italian Women’s Resistance and Radicalism in New York City, 1880–1945* (2010)  
-* Felipe Hinojosa, Maggie Elmore and Sergio M. González, eds., *Faith and Power: Latino Religious Politics Since 1945* (2022)  
-* Jesse Hoffnung-Garskof, *Racial Migrations: New York City and the Revolutionary Politics of the Spanish Caribbean, 1850-1902* (2019)  
-* Winston James, *Holding Aloft the Banner of Ethiopia: Caribbean Radicalism in Early Twentieth-Century America* (1999)  
-* Lina-María Murillo, *Fighting for Control: Power, Reproductive Care, and Race in the US-Mexico Borderlands* (2023)  
-* A. Naomi Paik, Jason Ruiz, and Rebecca M. Schreiber, “Sanctuary’s Radical Networks,” *Radical History Review* 135 (October 2019): 1-13.  
-* Amalia Pallares, *Family Activism: Immigrant Struggles and the Politics of Noncitizenship* (2014)  
-* Jimmy Patiño, *Raza Sí, Migra No: Chicano Movement Struggles for Immigrant Rights in San Diego* (2017)  
-* Jorge Ramírez-López, “‘Our Dark Hands and Sore Backs’: The Comité Cívico Popular Mixteco and the New Grassroots Activism by Indigenous Mexican Migrants,” *Journal of American Ethnic History* 43, no.2 (2024): 5–33  
-* Ellen D. Wu, *The Color of Success: Asian Americans and the Origins of the Model Minority* (2014)  
+* Emma Amador, *The Politics of Care Work Puerto Rican Women Organizing for Social Justice* (2025)
+* Xóchitl Bada and Shannon Gleeson, eds., *Accountability across Borders: Migrant Rights in North America* (2019)
+* Eladio B. Bobadilla, *Dangerous Migration Mexican Labor and the Fight for Immigrant Rights* (2026)
+* Aviva Chomsky, *Undocumented: How Immigration Became Illegal* (2014)
+* Sarah R. Coleman, *The Walls Within: The Politics of Immigration in Modern America* (2021)
+* Johanna Fernández, *The Young Lords: A Radical History* (2020)
+* Angela S. García, *Legal Passing: Navigating Undocumented Life and Local Immigration Law* (2019)
+* Jennifer Guglielmo, *Living the Revolution: Italian Women’s Resistance and Radicalism in New York City, 1880–1945* (2010)
+* Felipe Hinojosa, Maggie Elmore and Sergio M. González, eds., *Faith and Power: Latino Religious Politics Since 1945* (2022)
+* Jesse Hoffnung-Garskof, *Racial Migrations: New York City and the Revolutionary Politics of the Spanish Caribbean, 1850-1902* (2019)
+* Winston James, *Holding Aloft the Banner of Ethiopia: Caribbean Radicalism in Early Twentieth-Century America* (1999)
+* Lina-María Murillo, *Fighting for Control: Power, Reproductive Care, and Race in the US-Mexico Borderlands* (2023)
+* A. Naomi Paik, Jason Ruiz, and Rebecca M. Schreiber, “Sanctuary’s Radical Networks,” *Radical History Review* 135 (October 2019): 1-13.
+* Amalia Pallares, *Family Activism: Immigrant Struggles and the Politics of Noncitizenship* (2014)
+* Jimmy Patiño, *Raza Sí, Migra No: Chicano Movement Struggles for Immigrant Rights in San Diego* (2017)
+* Jorge Ramírez-López, “‘Our Dark Hands and Sore Backs’: The Comité Cívico Popular Mixteco and the New Grassroots Activism by Indigenous Mexican Migrants,” *Journal of American Ethnic History* 43, no.2 (2024): 5–33
+* Ellen D. Wu, *The Color of Success: Asian Americans and the Origins of the Model Minority* (2014)
 * Chris Zepeda-Millán, *Latino Mass Mobilization: Immigration, Racialization, and Activism* (2017)
 
 ### Resources
-* [A Class Apart](https://www.pbs.org/wgbh/americanexperience/films/class/) PBS (documentary)  
-* [Chicano\! History of the Mexican-American Civil Rights Movement](https://www.kanopy.com/en/product/chicano-history-mexican-american-civil-rig) (documentary series)  
-* Lib Tietjen and Kira Garcia, [A History of the Undocumented Immigrant](https://www.tenement.org/blog/a-history-of-the-undocumented-immigrant/), Tenement Museum, November 26, 2013 (public-facing article)  
-* [Crossing Arizona](https://www.kanopy.com/en/product/crossing-arizona) (documentary)  
-* [Documented: A film by an undocumented American](https://www.imdb.com/title/tt3057836/) (documentary)  
-* [The Dream 9](https://www.latinousa.org/2024/11/24/thedream9/), *Latino USA* (podcast)  
-* [Los Otros Dreamers](https://www.latinousa.org/2013/10/25/los-otros-dreamers/), *Latino USA* (podcast)  
-* Jose Antonio Vargas, "[My Life as an Undocumented Immigrant](https://www.nytimes.com/2011/06/26/magazine/my-life-as-an-undocumented-immigrant.html)," *New York Times,* June 26, 2011 (primary source document)  
-* [The Right-Wing Latinos of Miami: Proud Boys and Refugees](https://www.youtube.com/watch?v=D9Qa1f29diE), VICE (documentary)  
-* [How Democracy Works Now](https://www.howdemocracyworksnow.com/home) (documentary)   
-* [Immigration Battle](https://www.pbs.org/wgbh/frontline/documentary/immigration-battle/), PBS (documentary)  
-* Katie Worth, “[What Makes Opponents of Immigration Reform So Effective?](https://www.pbs.org/wgbh/frontline/article/what-makes-opponents-of-immigration-reform-so-effective/),” *Frontline*, October 20, 2015 (public-facing article)  
-* [Las Abogadas: Attorneys on the Front Lines of the Migrant Crisis](https://www.newday.com/films/las-abogadas-attorneys-on-the-front-lines-of-the-migrant-crisis#:~:text=A%20new%20documentary%20film%2C%20'Las,and%20into%20the%20Biden%20administration.) (documentary)  
-* [Sanctuary: On the Border Between Church and State](https://redcircle.com/shows/sanctuary-on-the-border-between-church-and-state) (podcast series)  
+* [A Class Apart](https://www.pbs.org/wgbh/americanexperience/films/class/) PBS (documentary)
+* [Chicano\! History of the Mexican-American Civil Rights Movement](https://www.kanopy.com/en/product/chicano-history-mexican-american-civil-rig) (documentary series)
+* Lib Tietjen and Kira Garcia, [A History of the Undocumented Immigrant](https://www.tenement.org/blog/a-history-of-the-undocumented-immigrant/), Tenement Museum, November 26, 2013 (public-facing article)
+* [Crossing Arizona](https://www.kanopy.com/en/product/crossing-arizona) (documentary)
+* [Documented: A film by an undocumented American](https://www.imdb.com/title/tt3057836/) (documentary)
+* [The Dream 9](https://www.latinousa.org/2024/11/24/thedream9/), *Latino USA* (podcast)
+* [Los Otros Dreamers](https://www.latinousa.org/2013/10/25/los-otros-dreamers/), *Latino USA* (podcast)
+* Jose Antonio Vargas, "[My Life as an Undocumented Immigrant](https://www.nytimes.com/2011/06/26/magazine/my-life-as-an-undocumented-immigrant.html)," *New York Times,* June 26, 2011 (primary source document)
+* [The Right-Wing Latinos of Miami: Proud Boys and Refugees](https://www.youtube.com/watch?v=D9Qa1f29diE), VICE (documentary)
+* [How Democracy Works Now](https://www.howdemocracyworksnow.com/home) (documentary) 
+* [Immigration Battle](https://www.pbs.org/wgbh/frontline/documentary/immigration-battle/), PBS (documentary)
+* Katie Worth, “[What Makes Opponents of Immigration Reform So Effective?](https://www.pbs.org/wgbh/frontline/article/what-makes-opponents-of-immigration-reform-so-effective/),” *Frontline*, October 20, 2015 (public-facing article)
+* [Las Abogadas: Attorneys on the Front Lines of the Migrant Crisis](https://www.newday.com/films/las-abogadas-attorneys-on-the-front-lines-of-the-migrant-crisis#:~:text=A%20new%20documentary%20film%2C%20'Las,and%20into%20the%20Biden%20administration.) (documentary)
+* [Sanctuary: On the Border Between Church and State](https://redcircle.com/shows/sanctuary-on-the-border-between-church-and-state) (podcast series)
 * [Chicano/Latino Movements History and Geography](https://depts.washington.edu/moves/Chicano_intro.shtml), Mapping American Social Movements Project (digital mapping project)
 
 
 ## Week 13: Borders
-United States expansion resulted in shifting and in many ways permeable national borders for generations. As the US increased its efforts to exclude and expel “undesirable” immigrants,  border policing took on increased importance. From the creation of the Border Patrol in 1924 to “prevention through deterrence” in the early 1990s and into the 21st century, the US has expanded its efforts to regulate human mobility across national borders. In popular discourse, “the border” has long been shorthand for the Southwest, a product of an imaginary that linked Mexicanness with illegality and the region most linked to their presence as a place in need of policing. But in fact “the border” has historically encompassed all of the nation’s land and water boundaries, as well as other physical spaces that served as entry points into sovereign territory, such as airports. To maintain spatial control the US instituted uneven enforcement strategies at its myriad ports of entry and created legal regimes that codified border crossings as criminally transgressive. Border enforcement has created humanitarian catastrophes as landscapes have been weaponized as tools of exclusion. But borderlands are not solely spaces of state violence and control; they are also vibrant transnational spaces of community and culture. 
+United States expansion resulted in shifting and in many ways permeable national borders for generations. As the US increased its efforts to exclude and expel “undesirable” immigrants,border policing took on increased importance. From the creation of the Border Patrol in 1924 to “prevention through deterrence” in the early 1990s and into the 21st century, the US has expanded its efforts to regulate human mobility across national borders. In popular discourse, “the border” has long been shorthand for the Southwest, a product of an imaginary that linked Mexicanness with illegality and the region most linked to their presence as a place in need of policing. But in fact “the border” has historically encompassed all of the nation’s land and water boundaries, as well as other physical spaces that served as entry points into sovereign territory, such as airports. To maintain spatial control the US instituted uneven enforcement strategies at its myriad ports of entry and created legal regimes that codified border crossings as criminally transgressive. Border enforcement has created humanitarian catastrophes as landscapes have been weaponized as tools of exclusion. But borderlands are not solely spaces of state violence and control; they are also vibrant transnational spaces of community and culture. 
 
 ### Scholarship
 
-* Ashley Johnson Bavery, *Bootlegged Aliens: Immigration Politics on America’s Northern Border* (2020)  
-* Brian D. Behnken, *Borders of Violence & Justice: Mexicans, Mexican Americans, and Law Enforcement in the Southwest, 1835-1935* (2022)  
-* Geraldo L. Cadava, *Standing on Common Ground: The Making of a Sunbelt Borderland* (2013)  
-* Kornel Chang, *Pacific Connections: The Making of the U.S.-Canadian Borderlands* (2012)  
-* Jason De León, *The Land of Open Graves: Living and Dying on the Migrant Trail* (2015)  
-* Patrick W. Ettinger, *Imaginary Lines: Border Enforcement and the Origins of Undocumented Immigration, 1882–1930* (2009)  
-* S. Deborah Kang, *The INS on the Line: Making Immigration Law on the U.S.-Mexico Border, 1917–1954* (2017)  
-* Jeffrey S. Kahn, *Islands of Sovereignty: Haitian Migration and the Borders of Empire* (2019)  
-* Kelly Lytle Hernández, *Migra\!: A History of the U.S. Border Patrol* (2010)  
-* Julian Lim, *Porous Borders: Multiracial Migrations and the Law in the U.S.-Mexico Borderlands* (2020)  
-* Monica Muñoz Martinez, *The Injustice Never Leaves You: Anti-Mexican Violence in Texas* (2018)  
+* Ashley Johnson Bavery, *Bootlegged Aliens: Immigration Politics on America’s Northern Border* (2020)
+* Brian D. Behnken, *Borders of Violence & Justice: Mexicans, Mexican Americans, and Law Enforcement in the Southwest, 1835-1935* (2022)
+* Geraldo L. Cadava, *Standing on Common Ground: The Making of a Sunbelt Borderland* (2013)
+* Kornel Chang, *Pacific Connections: The Making of the U.S.-Canadian Borderlands* (2012)
+* Jason De León, *The Land of Open Graves: Living and Dying on the Migrant Trail* (2015)
+* Patrick W. Ettinger, *Imaginary Lines: Border Enforcement and the Origins of Undocumented Immigration, 1882–1930* (2009)
+* S. Deborah Kang, *The INS on the Line: Making Immigration Law on the U.S.-Mexico Border, 1917–1954* (2017)
+* Jeffrey S. Kahn, *Islands of Sovereignty: Haitian Migration and the Borders of Empire* (2019)
+* Kelly Lytle Hernández, *Migra\!: A History of the U.S. Border Patrol* (2010)
+* Julian Lim, *Porous Borders: Multiracial Migrations and the Law in the U.S.-Mexico Borderlands* (2020)
+* Monica Muñoz Martinez, *The Injustice Never Leaves You: Anti-Mexican Violence in Texas* (2018)
 * Rachel St. John, *Line in the Sand: A History of the Western U.S.-Mexico Border* (2012)
 
 ### Resources
-* [Oral History Interviews](https://borderpatrolmuseum.com/oral-history-interviews/), Border Patrol Museum (primary source collection)  
-* [Report of the Boundary Commission upon the Survey and Re-marking of the Boundary between the United States and Mexico West of the Rio Grande, 1891-96](https://digital.library.unt.edu/ark:/67531/metadc1030/), University of North Texas Digital Library (primary source)  
-* [United States-Mexico Border, Color Image Map Series, U.S. Geological Survey and U.S. Customs Service, 1979-1983](https://maps.lib.utexas.edu/maps/us_mexico_border/), University of Texas, Austin Libraries (primary source collection)  
-* [Borderland: Dispatches From The U.S.-Mexico Boundary](https://www.npr.org/series/291397809/borderland-dispatches-from-the-u-s-mexico-boundary), National Public Radio (podcast series)  
-* Javier Zamora, [*Solito*](https://www.penguinrandomhouse.com/books/705626/solito-a-read-with-jenna-pick-by-javier-zamora/) 2023 (memoir/primary source)  
-* [The Unafraid](http://www.theunafraidfilm.com/) (documentary)  
-* [The Infiltrators](https://www.pbs.org/pov/films/infiltrators/) (documentary)  
-* Gloria Anzaldúa, [*Borderlands/La Frontera: The New Mestiza*](https://archive.org/details/borderlandslafro0000anza_k1y9) (analysis/primary source)  
-* Elisabeth Vallet, “[The World is Witnessing a Rapid Proliferation of Border Walls](https://www.migrationpolicy.org/article/rapid-proliferation-number-border-walls),” Migration Policy Institute, March 2, 2022 (public-facing article)  
-* Luis Alberto Urrea, *[The Devil’s Highway: A True Story](https://luisurrea.com/books/the-devils-highway/)* (public-facing book)  
+* [Oral History Interviews](https://borderpatrolmuseum.com/oral-history-interviews/), Border Patrol Museum (primary source collection)
+* [Report of the Boundary Commission upon the Survey and Re-marking of the Boundary between the United States and Mexico West of the Rio Grande, 1891-96](https://digital.library.unt.edu/ark:/67531/metadc1030/), University of North Texas Digital Library (primary source)
+* [United States-Mexico Border, Color Image Map Series, U.S. Geological Survey and U.S. Customs Service, 1979-1983](https://maps.lib.utexas.edu/maps/us_mexico_border/), University of Texas, Austin Libraries (primary source collection)
+* [Borderland: Dispatches From The U.S.-Mexico Boundary](https://www.npr.org/series/291397809/borderland-dispatches-from-the-u-s-mexico-boundary), National Public Radio (podcast series)
+* Javier Zamora, [*Solito*](https://www.penguinrandomhouse.com/books/705626/solito-a-read-with-jenna-pick-by-javier-zamora/) 2023 (memoir/primary source)
+* [The Unafraid](http://www.theunafraidfilm.com/) (documentary)
+* [The Infiltrators](https://www.pbs.org/pov/films/infiltrators/) (documentary)
+* Gloria Anzaldúa, [*Borderlands/La Frontera: The New Mestiza*](https://archive.org/details/borderlandslafro0000anza_k1y9) (analysis/primary source)
+* Elisabeth Vallet, “[The World is Witnessing a Rapid Proliferation of Border Walls](https://www.migrationpolicy.org/article/rapid-proliferation-number-border-walls),” Migration Policy Institute, March 2, 2022 (public-facing article)
+* Luis Alberto Urrea, *[The Devil’s Highway: A True Story](https://luisurrea.com/books/the-devils-highway/)* (public-facing book)
 * “[‘No Olvidado’: These Americans Find and Bury Missing Migrants](https://www.cnn.com/interactive/2019/12/us/no-olvidado-missing-migrants-border/),” CNN (documentary)
 
 
@@ -546,35 +546,35 @@ US efforts to exclude and expel undesirable immigrants resulted in the creation 
 
 ### Scholarship
 
-* Francisco E. Balderrama and Raymond Rodríguez, *Decade of Betrayal: Mexican Repatriation in the 1930s, rev. ed.* (2006)  
-* Ethan Blue, *The Deportation Express: A History of America through Forced Removal* (2021)  
-* Rachel Ida Buff, *Against the Deportation Terror: Organizing for Immigrant Rights in the Twentieth Century* (2017)  
-* Nicholas De Genova and Nathalie Peutz, eds., *The Deportation Regime: Sovereignty, Space, and the Freedom of Movement* (2010)  
-* Mark Dow, *American Gulag: Inside U.S. Immigration Prisons* (2004)  
-* Tanya Maria Golash-Boza, *Deported: Immigrant Policing, Disposable Labor, and Global Capitalism* (2015)  
-* Adam Goodman, *The Deportation Machine: America’s Long History of Expelling Immigrants* (2020)  
-* Torrie Hester, *Deportation: The Origins of U.S. Policy* (2017)  
-* Daniel Kanstroom, *Aftermath: Deportation Law and the New American Diaspora* (2012)  
-* Daniel Kanstroom, *Deportation Nation: Outsiders in American History* (2007)  
-* Carl Lindskoog, *Detain and Punish: Haitian Refugees and the Rise of the World’s Largest Immigration Detention System* (2018)  
-* Eithne Luibhéid and Karma R. Chávez, *Queer and Trans Migrations: Dynamics of Illegalization, Detention, and Deportation* (2020)  
-* Kelly Lytle Hernández, “The Crimes and Consequences of Illegal Immigration: A Cross-Border Examination of Operation Wetback, 1943-1954,” *Western Historical Quarterly* (Winter 2006), 421-444  
-* Brianna Nofil, *The Migrant’s Jail: An American History of Mass Incarceration* (2024)  
-* Jessica Ordaz, *The Shadow of El Centro: A History of Migrant Incarceration and Solidarity* (2021)  
-* Kristina Shull, *Detention Empire: Reagan’s War on Immigrants and the Seeds of Resistance* (2022)  
+* Francisco E. Balderrama and Raymond Rodríguez, *Decade of Betrayal: Mexican Repatriation in the 1930s, rev. ed.* (2006)
+* Ethan Blue, *The Deportation Express: A History of America through Forced Removal* (2021)
+* Rachel Ida Buff, *Against the Deportation Terror: Organizing for Immigrant Rights in the Twentieth Century* (2017)
+* Nicholas De Genova and Nathalie Peutz, eds., *The Deportation Regime: Sovereignty, Space, and the Freedom of Movement* (2010)
+* Mark Dow, *American Gulag: Inside U.S. Immigration Prisons* (2004)
+* Tanya Maria Golash-Boza, *Deported: Immigrant Policing, Disposable Labor, and Global Capitalism* (2015)
+* Adam Goodman, *The Deportation Machine: America’s Long History of Expelling Immigrants* (2020)
+* Torrie Hester, *Deportation: The Origins of U.S. Policy* (2017)
+* Daniel Kanstroom, *Aftermath: Deportation Law and the New American Diaspora* (2012)
+* Daniel Kanstroom, *Deportation Nation: Outsiders in American History* (2007)
+* Carl Lindskoog, *Detain and Punish: Haitian Refugees and the Rise of the World’s Largest Immigration Detention System* (2018)
+* Eithne Luibhéid and Karma R. Chávez, *Queer and Trans Migrations: Dynamics of Illegalization, Detention, and Deportation* (2020)
+* Kelly Lytle Hernández, “The Crimes and Consequences of Illegal Immigration: A Cross-Border Examination of Operation Wetback, 1943-1954,” *Western Historical Quarterly* (Winter 2006), 421-444
+* Brianna Nofil, *The Migrant’s Jail: An American History of Mass Incarceration* (2024)
+* Jessica Ordaz, *The Shadow of El Centro: A History of Migrant Incarceration and Solidarity* (2021)
+* Kristina Shull, *Detention Empire: Reagan’s War on Immigrants and the Seeds of Resistance* (2022)
 * Elliott Young, *Forever Prisoners: How the United States Made the World’s Largest Immigrant Detention System* (2021)
 
 ### Resources
-* [Transgression](https://www.screenaustralia.gov.au/the-screen-guide/t/transgression-2005/21379/) (documentary)  
-* [The Bisbee Deportation of 1917](https://lib.arizona.edu/about/events/remembering-bisbee-deportation-1917), University of Arizona Library (online exhibition)  
-* [Detention Mapping Project](https://www.freedomforimmigrants.org/map), Freedom for Immigrants (digital mapping project)  
-* [TRAC Immigration Project](https://tracreports.org/), Transactional Records Access Clearinghouse (multimedia platform)  
-* [Emma Goldman on the restriction of civil liberties](https://www.gilderlehrman.org/history-resources/spotlight-primary-source/emma-goldman-restriction-civil-liberties-1919), 1919, The Gilder Lehrman Institute of American History (primary source)  
-* [Sentenced Home](https://www.pbs.org/independentlens/documentaries/sentencedhome/), PBS (documentary)  
-* Alex Wagner, [“America’s Forgotten History of Illegal Deportations,”](https://www.theatlantic.com/politics/archive/2017/03/americas-brutal-forgotten-history-of-illegal-deportations/517971/) *The Atlantic,* March 6, 2017  
-* Doris Meissner, Donald M. Kerwin, Muzaffar Chishti and Claire Bergeron, “[Immigration Enforcement in the United States: The Rise of a Formidable Machinery](https://www.migrationpolicy.org/research/immigration-enforcement-united-states-rise-formidable-machinery),” Migration Policy Institute (investigative report)  
-* Patrice Taddonio and Daffodil Altan, “[With Renewed Attention to the Border, These 8 Documentaries Illuminate US Immigration Policies Involving Kids](https://www.pbs.org/wgbh/frontline/article/documentaries-us-border-immigration-policies-kids/),” *Frontline*, March 31, 2021 (public-facing article)  
-* [Immigration and the Carceral State](https://sites.lsa.umich.edu/dcc-project/publications/immigration-and-the-carceral-state/) (digital exhibit)  
+* [Transgression](https://www.screenaustralia.gov.au/the-screen-guide/t/transgression-2005/21379/) (documentary)
+* [The Bisbee Deportation of 1917](https://lib.arizona.edu/about/events/remembering-bisbee-deportation-1917), University of Arizona Library (online exhibition)
+* [Detention Mapping Project](https://www.freedomforimmigrants.org/map), Freedom for Immigrants (digital mapping project)
+* [TRAC Immigration Project](https://tracreports.org/), Transactional Records Access Clearinghouse (multimedia platform)
+* [Emma Goldman on the restriction of civil liberties](https://www.gilderlehrman.org/history-resources/spotlight-primary-source/emma-goldman-restriction-civil-liberties-1919), 1919, The Gilder Lehrman Institute of American History (primary source)
+* [Sentenced Home](https://www.pbs.org/independentlens/documentaries/sentencedhome/), PBS (documentary)
+* Alex Wagner, [“America’s Forgotten History of Illegal Deportations,”](https://www.theatlantic.com/politics/archive/2017/03/americas-brutal-forgotten-history-of-illegal-deportations/517971/) *The Atlantic,* March 6, 2017
+* Doris Meissner, Donald M. Kerwin, Muzaffar Chishti and Claire Bergeron, “[Immigration Enforcement in the United States: The Rise of a Formidable Machinery](https://www.migrationpolicy.org/research/immigration-enforcement-united-states-rise-formidable-machinery),” Migration Policy Institute (investigative report)
+* Patrice Taddonio and Daffodil Altan, “[With Renewed Attention to the Border, These 8 Documentaries Illuminate US Immigration Policies Involving Kids](https://www.pbs.org/wgbh/frontline/article/documentaries-us-border-immigration-policies-kids/),” *Frontline*, March 31, 2021 (public-facing article)
+* [Immigration and the Carceral State](https://sites.lsa.umich.edu/dcc-project/publications/immigration-and-the-carceral-state/) (digital exhibit)
 * [Immigration Nation](https://www.netflix.com/title/80994107), Netflix (documentary series)
 
 
@@ -582,38 +582,38 @@ US efforts to exclude and expel undesirable immigrants resulted in the creation 
 The United States experienced a resurgence of nativism at the turn of the 21st century. In the 1990s, states and the federal government passed laws restricting the rights and mobility of immigrants. The surveillance and criminalization of immigrants increased again after the attacks of September 11, 2001, when the United States reorganized its immigration bureaucracy as part of its “global war on terrorism,” efforts frequently marked by Islamophobia and racism. Stalled efforts to pass immigration reform legislation combined with ongoing global migrations related to climate change, war, and conflict made immigration an increasingly salient and politicized issue in the United States. While the 21st century has seen powerful immigrant rights organizing and daily reminders of the strength of immigrant communities, xenophobia and immigrant scapegoating pervade political discourse, and immigrant communities are under threat. (Due to the timing of this update, the proliferation of analysis and documents reflecting the second Trump administration could not be included here.)
 
 ### Scholarship
-* Moustafa Bayoumi, *How Does It Feel to Be a Problem?: Being Young and Arab in America* (2009)  
-* Elizabeth F. Cohen, *Illegal: How America’s Lawless Immigration Regime Threatens Us All* (2020)  
-* Daniel Denvir, *All-American Nativism: How the Bipartisan War on Immigrants Explains Politics as We Know It* (2020)  
-* Lori A. Flores, *Awaiting Their Feast: Latinx Food Workers and Activism from World War II to COVID-19* (2025)  
-* María Cristina García, *State of Disaster: The Failure of U.S. Migration Policy in an Age of Climate Change* (2022)  
-* Phillip B. Gonzales, Renato Rosaldo, and Mary Louise Pratt, *Trumpism, Mexican America, and the Struggle for Latinx Citizenship* (2021)  
-* William D. Lopez, *Separated: Family and Community in the Aftermath of an Immigration Raid* (2019)  
-* Todd Miller, *Empire of Borders: The Expansion of the U.S. Border around the World* (2019)  
-* Nicole Nguyen, *Suspect Communities: Anti-Muslim Racism and the Domestic War on Terror* (2019)  
-* Juan F. Perea, *Immigrants Out\!: The New Nativism and the Anti-Immigrant Impulse in the United States* (1997)  
-* Saher Selod, *Forever Suspect: Racialized Surveillance of Muslim Americans in the War on Terror* (2018)  
-* Tram Nguyen, *We Are All Suspects Now: Untold Stories from Immigrant Communities after 9/11* (2005)  
+* Moustafa Bayoumi, *How Does It Feel to Be a Problem?: Being Young and Arab in America* (2009)
+* Elizabeth F. Cohen, *Illegal: How America’s Lawless Immigration Regime Threatens Us All* (2020)
+* Daniel Denvir, *All-American Nativism: How the Bipartisan War on Immigrants Explains Politics as We Know It* (2020)
+* Lori A. Flores, *Awaiting Their Feast: Latinx Food Workers and Activism from World War II to COVID-19* (2025)
+* María Cristina García, *State of Disaster: The Failure of U.S. Migration Policy in an Age of Climate Change* (2022)
+* Phillip B. Gonzales, Renato Rosaldo, and Mary Louise Pratt, *Trumpism, Mexican America, and the Struggle for Latinx Citizenship* (2021)
+* William D. Lopez, *Separated: Family and Community in the Aftermath of an Immigration Raid* (2019)
+* Todd Miller, *Empire of Borders: The Expansion of the U.S. Border around the World* (2019)
+* Nicole Nguyen, *Suspect Communities: Anti-Muslim Racism and the Domestic War on Terror* (2019)
+* Juan F. Perea, *Immigrants Out\!: The New Nativism and the Anti-Immigrant Impulse in the United States* (1997)
+* Saher Selod, *Forever Suspect: Racialized Surveillance of Muslim Americans in the War on Terror* (2018)
+* Tram Nguyen, *We Are All Suspects Now: Untold Stories from Immigrant Communities after 9/11* (2005)
 * Leti Volpp, “The Citizen and the Terrorist,” *UCLA Law Review* 49 (2002): 1575–1600
 
 ### Resources
 
-* Feisel Abdul Rauf, “[Building on Faith](https://www.nytimes.com/2010/09/08/opinion/08mosque.html),” *New York Times*, September 7, 2010  
-* Ted Hesson, “[Five Ways Immigration System Changed after 9/11](https://abcnews.com/ABC_Univision/News/ways-immigration-system-changed-911/story?id=17231590),” ABC News, September 13, 2012 (public-facing article)  
-* [Statement of Senator Patrick Leahy, Chairman, Senate Judiciary Committee Subcommittee on Immigration “Effective Immigration Controls to Deter Terrorism”; October 17, 2001](https://avalon.law.yale.edu/sept11/leahy_003.asp), Yale Law School (primary source)  
-* [Statement of Dr. Demetrios G. Papademetriou Co-Director and Deborah Waller Meyers Policy Analyst Migration Policy Institute Before the Senate Judiciary Subcommittee on Immigration United States Senate Hearing on Border Security Issues and Options; October 17, 2001](https://avalon.law.yale.edu/sept11/meyers_001.asp), Yale Law School (primary source)  
-* [Fact Sheet: The Secure Fence Act of 2006](https://georgewbush-whitehouse.archives.gov/news/releases/2006/10/20061026-1.html), George W. Bush White House Archives (primary source)  
-* Mae Ngai, "[How Grandma Got Legal](https://www.latimes.com/archives/la-xpm-2006-may-16-oe-ngai16-story.html)" *Los Angeles Times*, May, 2006 and “[Second-Class Citizens](https://www.nytimes.com/2014/01/31/opinion/second-class-noncitizens.html?_r=0),” *New York Times*, January 30, 2014 (public-facing articles)  
-* [Divided We Fall: Americans in the Aftermath](https://vimeo.com/179147759) (documentary)  
-* [Immigration Battle](https://www.pbs.org/wgbh/frontline/documentary/immigration-battle/?), PBS (documentary)  
-* [Out of Status](https://www.pbs.org/independentlens/documentaries/out-of-state/), PBS (documentary)  
-* [The State of Black Immigrants](https://stateofblackimmigrants.com/), Black Alliance for Just Immigration (report)  
-* Jessica Bolter, “[Immigration Has Been a Defining, Often Contentious, Element Throughout U.S. History](https://www.migrationpolicy.org/article/immigration-shaped-united-states-history),” Migration Policy Institute, January 6, 2022 (public-facing article)  
-* Caitlin Dickerson, [“The Secret History of Family Separation,”](https://www.theatlantic.com/magazine/archive/2022/09/trump-administration-family-separation-policy-immigration/670604/) *Atlantic*, August 7, 2022 (public-facing article)  
-* Max Friedman,  “[Donald Trump’s Ban on Muslims Echoes Earliest Days of Nazi Propaganda](https://www.nydailynews.com/2015/12/09/donald-trumps-ban-on-muslims-echoes-earliest-days-of-nazi-propaganda-expert/),” *Daily News*, December 9, 2015  
-* Erika Lee, “[A History Lesson for Donald Trump](https://www.nydailynews.com/2015/08/18/a-history-lesson-for-donald-trump-and-his-supporters-in-1898-the-supreme-court-ruled-in-favor-of-wong-kim-ark-and-safeguarded-birthright-citizenship-for-millions/),” *New York Daily News*, August 18, 2015 (public-facing article)  
-* Cecilia Márquez, “[Introduction to a Series on Latinxs and the Right](https://latinxtalk.org/2025/08/06/introduction-to-a-series-on-latinxs-and-the-right/),” *Latinx Talk*, August 6, 2025 (public-facing article)  
-* [The Center for Migration Studies](https://cmsny.org/) (contemporary research reports)  
-* [Hispanics/Latinos](https://www.pewresearch.org/topic/race-ethnicity/racial-ethnic-groups/hispanics-latinos/), Pew Research Center (contemporary research reports)  
-* [Documented](https://documentedny.com/) (immigration news resource)  
+* Feisel Abdul Rauf, “[Building on Faith](https://www.nytimes.com/2010/09/08/opinion/08mosque.html),” *New York Times*, September 7, 2010
+* Ted Hesson, “[Five Ways Immigration System Changed after 9/11](https://abcnews.com/ABC_Univision/News/ways-immigration-system-changed-911/story?id=17231590),” ABC News, September 13, 2012 (public-facing article)
+* [Statement of Senator Patrick Leahy, Chairman, Senate Judiciary Committee Subcommittee on Immigration “Effective Immigration Controls to Deter Terrorism”; October 17, 2001](https://avalon.law.yale.edu/sept11/leahy_003.asp), Yale Law School (primary source)
+* [Statement of Dr. Demetrios G. Papademetriou Co-Director and Deborah Waller Meyers Policy Analyst Migration Policy Institute Before the Senate Judiciary Subcommittee on Immigration United States Senate Hearing on Border Security Issues and Options; October 17, 2001](https://avalon.law.yale.edu/sept11/meyers_001.asp), Yale Law School (primary source)
+* [Fact Sheet: The Secure Fence Act of 2006](https://georgewbush-whitehouse.archives.gov/news/releases/2006/10/20061026-1.html), George W. Bush White House Archives (primary source)
+* Mae Ngai, "[How Grandma Got Legal](https://www.latimes.com/archives/la-xpm-2006-may-16-oe-ngai16-story.html)" *Los Angeles Times*, May, 2006 and “[Second-Class Citizens](https://www.nytimes.com/2014/01/31/opinion/second-class-noncitizens.html?_r=0),” *New York Times*, January 30, 2014 (public-facing articles)
+* [Divided We Fall: Americans in the Aftermath](https://vimeo.com/179147759) (documentary)
+* [Immigration Battle](https://www.pbs.org/wgbh/frontline/documentary/immigration-battle/?), PBS (documentary)
+* [Out of Status](https://www.pbs.org/independentlens/documentaries/out-of-state/), PBS (documentary)
+* [The State of Black Immigrants](https://stateofblackimmigrants.com/), Black Alliance for Just Immigration (report)
+* Jessica Bolter, “[Immigration Has Been a Defining, Often Contentious, Element Throughout U.S. History](https://www.migrationpolicy.org/article/immigration-shaped-united-states-history),” Migration Policy Institute, January 6, 2022 (public-facing article)
+* Caitlin Dickerson, [“The Secret History of Family Separation,”](https://www.theatlantic.com/magazine/archive/2022/09/trump-administration-family-separation-policy-immigration/670604/) *Atlantic*, August 7, 2022 (public-facing article)
+* Max Friedman,“[Donald Trump’s Ban on Muslims Echoes Earliest Days of Nazi Propaganda](https://www.nydailynews.com/2015/12/09/donald-trumps-ban-on-muslims-echoes-earliest-days-of-nazi-propaganda-expert/),” *Daily News*, December 9, 2015
+* Erika Lee, “[A History Lesson for Donald Trump](https://www.nydailynews.com/2015/08/18/a-history-lesson-for-donald-trump-and-his-supporters-in-1898-the-supreme-court-ruled-in-favor-of-wong-kim-ark-and-safeguarded-birthright-citizenship-for-millions/),” *New York Daily News*, August 18, 2015 (public-facing article)
+* Cecilia Márquez, “[Introduction to a Series on Latinxs and the Right](https://latinxtalk.org/2025/08/06/introduction-to-a-series-on-latinxs-and-the-right/),” *Latinx Talk*, August 6, 2025 (public-facing article)
+* [The Center for Migration Studies](https://cmsny.org/) (contemporary research reports)
+* [Hispanics/Latinos](https://www.pewresearch.org/topic/race-ethnicity/racial-ethnic-groups/hispanics-latinos/), Pew Research Center (contemporary research reports)
+* [Documented](https://documentedny.com/) (immigration news resource)
 * [Sahan Journal](https://sahanjournal.com/) (immigration news resource)

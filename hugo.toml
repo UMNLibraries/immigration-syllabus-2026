@@ -4,7 +4,7 @@ title = 'Immigration Syllabus'
 theme = "hugo-flex"
 
 [params]
-color = "#7a0019"
+color = "#6d001f"
 width = "69rem"
 divider = "\\2500\\2500"
 footer = 'Except where otherwise noted, content on this site is licensed under a <a href="https://creativecommons.org/licenses/by-nc/4.0/" target=_blank>Creative Commons Attribution-NonCommercial 4.0 International License</a> <br />'
