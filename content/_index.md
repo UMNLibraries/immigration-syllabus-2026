@@ -5,7 +5,7 @@
 
 ### Essential readings and digital resources that provide historical context to current debates over immigration and citizenship
 
-***Revised and Updated - June 2026***
+***Revised and Updated - September 2026***
 
 Created by [immigration historians](/about) affiliated with the [Immigration History Research Center](https://cla.umn.edu/ihrc) and the [Immigration and Ethnic History Society](https://iehs.org/).</center>
 
