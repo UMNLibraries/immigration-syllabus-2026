@@ -10,7 +10,7 @@ This revised and updated \#ImmigrationSyllabus was created by: Llana Barber, Rud
 
 Consultants included: Maddalena Marinari, Professor of History and the Dorothy Peterson, Mildred Peterson Hanson, and Arthur Jennings Hanson Endowed Professor of Liberal Studies, Gustavus Adolphus College; Yael Schacher, Director for Americas and Europe, Refugees International.
 
-The original \#ImmigrationSyllabus was led by [Erika Lee](https://history.fas.harvard.edu/people/erika-lee), past Director of the Immigration History Research Center and currently Bae Family Professor of History, Radcliffe Alumnae Professor, and the Carl and Lily Pforzheimer Foundation Director Schlesinger Library on the History of Women in America. 
+The original \#ImmigrationSyllabus was led by [Erika Lee](https://history.fas.harvard.edu/people/erika-lee), past Director of the Immigration History Research Center and currently Bae Family Professor of History, Radcliffe Alumnae Professor, and the Carl and Lily Pforzheimer Foundation Director Schlesinger Library on the History of Women in America at Harvard University.
 
 Contributors to the original \#ImmigrationSyllabus included: Erika Lee, María Cristina García, Adam Goodman, Madeline Hsu, Julian Lim, Maddalena Marinari, and Evan Taparata.
 
@@ -24,9 +24,7 @@ The project is published by the [University of Minnesota Libraries Publishing Se
 
 The 2017 version of the site can be viewed at [this link via the Internet Archive Wayback Machine](https://web.archive.org/web/20260517215222/https://immigrationsyllabus.lib.umn.edu/) and the 2017 PDF version is [also available here](/docs/is-2017.pdf).
 
-### Suggested Citation Style
-
-\#ImmigrationSyllabus. Llana Barber, Carly Goodman, Hidetaka Hirota, et al. August 26, 2026. University of Minnesota Libraries Publishing. <a href="https://immigrationsyllabus.lib.umn.edu/" aria-label="Link to the Immigration Syllabus">https://immigrationsyllabus.lib.umn.edu/</a>.
+### Citation Information
 
 \#ImmigrationSyllabus may be cited in any format, but references should be sure to include the following information: \#ImmigrationSyllabus, Immigration History Research Center and Immigration and Ethnic History Society, 2026, https://immigrationsyllabus.lib.umn.edu/.
 
