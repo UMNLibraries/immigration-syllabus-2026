@@ -1,12 +1,12 @@
 <center><img src="/img/weeks911.jpg" alt="President Johnson signs the 1965 Immigration Act surrounded by dignitaries outside at Ellis Island, NY."></center>
 
 ## Week 9: Global Migration
-After World War II, new pressures related to global decolonization and U.S. foreign affairs during the Cold War helped transform immigration policies. No less important, domestic civil rights activism pushed the nation to reject racially discriminatory restrictions on immigration, including Asian exclusion. In this context, the 1965 Immigration Act helped increase immigration, over the next decades, of people from Latin America, Asia, Africa, as well as Europe. However, the Act also introduced the first numerical limitations on Latin American migration, denying millions of immigrants a legal pathway. While immigration to the United States had always been global in scope, post-1965 immigration brought diversity on a new scale. As the United States became a global superpower, its economy and culture were strengthened by immigrant workers, consumers, and family members. The civil rights movement’s triumphs ensured that newcomers and their children arrived in a United States that was formally committed to equality; in reality, immigrants would continue to fight for recognition of their rights and dignity. 
+After World War II, new pressures related to global decolonization and US foreign affairs during the Cold War helped transform immigration policies. No less important, domestic civil rights activism pushed the nation to reject racially discriminatory restrictions on immigration, including Asian exclusion. In this context, the 1965 Immigration Act helped increase immigration, over the next decades, of people from Latin America, Asia, Africa, and Europe. However, the Act also introduced the first numerical limitations on Latin American migration, denying millions of immigrants a legal pathway. While immigration to the United States had always been global in scope, post-1965 immigration brought diversity on a new scale. As the United States became a global superpower, its economy and culture were strengthened by immigrant workers, consumers, and family members. The Civil Rights Movement’s triumphs ensured that newcomers and their children arrived in a United States that was formally committed to equality; in reality, immigrants would continue to fight for recognition of their rights and dignity. 
 
 ### Scholarship
 
 * Leisy J. Abrego, *Sacrificing Families: Navigating Laws, Labor, and Love across Borders* (2014)
-* Yvette M. Alex-Assensoh, “African Immigrants and African-Americans: An Analysis of Voluntary African Immigration and the Evolution of Black Ethnic Politics in America,” *African and Asian Studies* 8 no.1-2, (March 2009): 89-124
+* Yvette M. Alex-Assensoh, “African Immigrants and African-Americans: An Analysis of Voluntary African Immigration and the Evolution of Black Ethnic Politics in America,” *African and Asian Studies* 8 no. 1–2, (March 2009): 89–124
 * Danielle Battisti, *Whom We Shall Welcome: Italian Americans and Immigration Reform, 1945–1965* (2019)
 * Gabriel J. Chin and Rose Cuison Villazor, *The Immigration and Nationality Act of 1965: Legislating a New America* (2015)
 * Nancy Foner, *From Ellis Island to JFK: New York’s Two Great Waves of Immigration* (2000)
@@ -17,7 +17,7 @@ After World War II, new pressures related to global decolonization and U.S. fore
 * Madeline Y. Hsu, *The Good Immigrants: How the Yellow Peril Became the Model Minority* (2015)
 * Roberto Lovato, *Unforgetting: A Memoir of Family, Migration, Gangs, and Revolution in the Americas* (2020)
 * Cecilia Márquez, *Making the Latino South: A History of Racial Formation* (2023)
-* Maddalena Marinari, “‘Americans Must Show Justice in Immigration Policies Too’: The Passage of the 1965 Immigration Act,” *Journal of Policy History* 26, no.2 (April 2014): 219-245
+* Maddalena Marinari, “‘Americans Must Show Justice in Immigration Policies Too’: The Passage of the 1965 Immigration Act,” *Journal of Policy History* 26, no. 2 (April 2014): 219–245
 * Douglas S. Massey and Karen A. Pren, “Unintended Consequences of U.S. Immigration Policy: Explaining the Post-1965 Surge from Latin America,” *Population and Development Review* 38, no. 1 (March 2012): 1–29.
 * Ana Raquel Minian, *Undocumented Lives: The Untold Story of Mexican Migration* (2018)
 * Arissa H. Oh, *To Save the Children of Korea: The Cold War Origins of International Adoption* (2015)
@@ -28,17 +28,17 @@ After World War II, new pressures related to global decolonization and U.S. fore
 
 ### Resources
 * [First Days Project](https://firstdays.saada.org/), South Asian American Digital Archive (oral history collection)
-* [The 1965 Immigration and Nationality Act](https://docsteach.org/document/immigration-and-nationality-act-of-1965/), DocsTeach (primary source)
-* Lyndon Baines Johnson, [Special Message to the Congress on Immigration](https://www.presidency.ucsb.edu/documents/special-message-the-congress-immigration-0), January 13, 1965 (primary source)
+* [Immigration and Nationality Act of 1965](https://docsteach.org/document/immigration-and-nationality-act-of-1965/), DocsTeach (primary source)
+* Lyndon Baines Johnson, [Special Message to the Congress on Immigration](https://www.presidency.ucsb.edu/documents/special-message-the-congress-immigration-0), The American Presidency Project, January 13, 1965 (primary source)
 * Lyndon Baines Johnson, [Remarks at the Signing of the Immigration Bill, Liberty Island, New York](https://www.presidency.ucsb.edu/documents/remarks-the-signing-the-immigration-bill-liberty-island-new-york), The American Presidency Project (primary source collection)
 * Ronald Reagan, [Remarks on Signing the Immigration Reform and Control Act of 1986](https://www.reaganlibrary.gov/archives/speech/remarks-signing-immigration-reform-and-control-act-1986), Ronald Reagan President Library & Museum (primary source) 
 * Muzaffar Chishti, Faye Hipsman, and Isabel Ball, “[Fifty Years On, the 1965 Immigration and Nationality Act Continues to Reshape the United States](https://www.migrationpolicy.org/article/fifty-years-1965-immigration-and-nationality-act-continues-reshape-united-states),” Migration Policy Institute, October 15, 2015 (public-facing article)
 * [Latino Americans](https://www.pbs.org/latino-americans/en/), PBS (documentary series)
 * [Immigrant Stories](https://cla.umn.edu/ihrc/immigrant-stories), Immigration History Research Center (primary source collection)
-* [A Pastoral Letter Concerning Migration from the Catholic Bishops of Mexico and the United States](https://www.usccb.org/issues-and-action/human-life-and-dignity/immigration/strangers-no-longer-together-on-the-journey-of-hope), 2003 (primary source document)
-* [The Archive of Immigrant Voices](https://archiveofimmigrantvoices.omeka.net/), The Center for Global Migration Studies at the University of Maryland, College Park (interview collection)
+* [A Pastoral Letter Concerning Migration from the Catholic Bishops of Mexico and the United States](https://www.usccb.org/issues-and-action/human-life-and-dignity/immigration/strangers-no-longer-together-on-the-journey-of-hope), United States Conference of Catholic Bishops, 2003 (primary source document)
+* [The Archive of Immigrant Voices](https://archiveofimmigrantvoices.omeka.net/), Center for Global Migration Studies at the University of Maryland, College Park (interview collection)
 * [Minnesota Immigrant Oral Histories](https://mnhs.gitlab.io/archive/minnesota-immigrant-oral-histories/collections.mnhs.org/ioh/index.html), Minnesota Historical Society (oral history collection)
-* [South Asian Oral History Project](https://content.lib.washington.edu/saohcweb/index.html), University of Washington Library (oral history collection)
+* [South Asian Oral History Project](https://content.lib.washington.edu/saohcweb/index.html), University of Washington Libraries (oral history collection)
 
 -------
 
@@ -49,16 +49,16 @@ Thomas Paine’s aspirational invocation of the United States as an “asylum fo
 
 * Melissa May Borja, *Follow the New Way: American Refugee Resettlement Policy and Hmong Religious Change* (2023)
 * Carl J. Bon Tempo, *Americans at the Gate: The United States and Refugees during the Cold War* (2008)
-* Julio Capó Jr, “Queering Mariel: Mediating Cold War Foreign Policy and U.S. Citizenship among Cuba's Homosexual Exile Community, 1978-1994,” *Journal of American Ethnic History* 29, no. 4 (Summer 2010): 78-106
+* Julio Capó Jr., “Queering Mariel: Mediating Cold War Foreign Policy and U.S. Citizenship among Cuba's Homosexual Exile Community, 1978–1994,” *Journal of American Ethnic History* 29, no. 4 (Summer 2010): 78–106
 * Y&#x1EBF;n Lê Espiritu, *Body Counts: The Vietnam War and Militarized Refuge(es)* (2014)
-* Y&#x1EBF;n Lê Espiritu et al., *Departures An Introduction to Critical Refugee Studies* (2022)
-* David FitzGerald, *Refuge Beyond Reach: How Rich Democracies Repel Asylum Seekers* (2019)
+* Y&#x1EBF;n Lê Espiritu et al., *Departures: An Introduction to Critical Refugee Studies* (2022)
+* David Scott FitzGerald, *Refuge Beyond Reach: How Rich Democracies Repel Asylum Seekers* (2019)
 * María Cristina García, *Havana USA: Cuban Exiles and Cuban Americans in South Florida, 1959–1994* (1996)
 * María Cristina García, *The Refugee Challenge in Post–Cold War America* (2017)
-* Paul A. Kramer, “Unsettled Subjects: Inventing the Refugee in North American History,” *Journal of American Ethnic History* 39, no.3 (Spring 2020): 5-16
+* Paul A. Kramer, “Unsettled Subjects: Inventing the Refugee in North American History,” *Journal of American Ethnic History* 39, no. 3 (Spring 2020): 5–16
 * Jana K. Lipman, *In Camps: Vietnamese Refugees, Asylum Seekers, and Repatriates* (2020)
 * Laura Madokoro, *Elusive Refuge: Chinese Migrants in the Cold War* (2017)
-* Yael Schacher, “Return of the Repressed: Asylum in the 1920s and Today,” *Journal of American History* 109, no.2 (September 2022): 375–387
+* Yael Schacher, “Return of the Repressed: Asylum in the 1920s and Today,” *Journal of American History* 109, no. 2 (September 2022): 375–387
 * Eric Tang, *Unsettled: Cambodian Refugees in the New York City Hyperghetto* (2015)
 * Cecilia M. Tsu, “‘If You Want to Plow Your Field, Don’t Kill Your Buffalo to Eat’: Hmong Farm Cooperatives and Refugee Resettlement in 1980s Minnesota,” *Journal of American Ethnic History* 36, no. 3 (Spring 2017): 38–73
 * Domenic Vitiello, *The Sanctuary City: Immigrant, Refugee, and Receiving Communities in Postindustrial Philadelphia* (2022)
@@ -66,17 +66,17 @@ Thomas Paine’s aspirational invocation of the United States as an “asylum fo
 ### Resources
 * [Text of the 1951 Convention Relating to the Status of Refugees and Text of the 1967 Protocol Relating to the Status of Refugees](https://www.unhcr.org/us/media/convention-and-protocol-relating-status-refugees), United Nations (primary source)
 * [The 1980 Refugee Act](https://archivesfoundation.org/documents/refugee-act-1980/), National Archives Foundation (primary source)
-* Sarah Corbett, “[The Lost Boys of Sudan: The Long, Long, Long Road to Fargo](https://www.nytimes.com/2001/04/01/magazine/the-lost-boys-of-sudan-the-long-long-long-road-to-fargo.html),” *New York Times Magazine*, April 1, 2001 (public-facing article)
+* Sarah Corbett, “[The Lost Boys of Sudan; The Long, Long, Long Road to Fargo](https://www.nytimes.com/2001/04/01/magazine/the-lost-boys-of-sudan-the-long-long-long-road-to-fargo.html),” *New York Times Magazine*, April 1, 2001 (public-facing article)
 * First They Killed My Father: A Daughter of Cambodia Remembers (documentary)
 * [Lost Boys of Sudan](https://www.pbs.org/video/pov-lost-boys-sudan/), PBS (documentary series)
 * The Betrayal: Nerakhoon (documentary)
 * [Crossing Over: Stories of Immigration and Identity](https://vimeo.com/114141133) (documentary)
-* Evan Taparata and Rachel Ida Buff, “[Refuge: Denied. Asylum: Pending](https://www.publicbooks.org/refuge-denied-asylum-pending/),” *Public Books* July 8, 2021 (public-facing article)
+* Evan Taparata and Rachel Ida Buff, “[Refuge: Denied. Asylum: Pending](https://www.publicbooks.org/refuge-denied-asylum-pending/),” *Public Books*, July 8, 2021 (public-facing article)
 * “[The Out Crowd](https://www.thisamericanlife.org/704/our-pulitzer-winning-episode),” *This American Life*, May 15, 2020 (podcast)
-* [The Other Side of the Water:Immigration and the Promise of Racial Justice](https://www.jeanvnelson35.org/podcast), NYU School of Law (podcast series)
+* [The Other Side of the Water: Immigration and the Promise of Racial Justice](https://www.jeanvnelson35.org/podcast), NYU School of Law (podcast series)
 * [Well Founded Fear](https://www.pbs.org/video/pov-well-founded-fear/), PBS (documentary)
 * [Refugee History](https://refugeehistory.org/) (digital exhibit)
-* [Cuban Immigration After the Revolution](https://dp.la/primary-source-sets/cuban-immigration-after-the-revolution-1959-1973), Digital Public Library of America (primary source set)
+* [Cuban Immigration After the Revolution 1959-1973](https://dp.la/primary-source-sets/cuban-immigration-after-the-revolution-1959-1973), Digital Public Library of America (primary source set)
 * [Digital Stories](https://www.greencardvoices.org/digital-stories/), Green Card Voices (oral history collection)
 * [Viet Stories: Vietnamese American Oral History project](https://calisphere.org/collections/36/), Calisphere, University of California (oral history project)
 

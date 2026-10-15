@@ -1,6 +1,6 @@
 baseURL = 'https://immigrationsyllabus.lib.umn.edu/'
 locale = 'en-us'
-title = 'Immigration Syllabus'
+title = '#ImmigrationSyllabus'
 theme = "hugo-flex"
 
 [params]
