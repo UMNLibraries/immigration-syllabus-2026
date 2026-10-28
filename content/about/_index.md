@@ -35,7 +35,7 @@ You can also <a href="/docs/citation.bib" download="citation.bib">add the syllab
 - Main Page: Jonathan McIntosh - Own work, CC BY 2.5, (2006) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:May_Day_Immigration_March_LA09.jpg)
 - Weeks 1-2: "Americans all Immigrants all," United States Department of the Interior, Public Domain (1939). [University of Minnesota Immigration History Research Center Archives](https://purl.umn.edu/67055)
 - Weeks 3-6: "Ellis Island Public Health Service Physicians," Public Domain via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ellis_Island_Public_Health_Service_Physicians_(7844875428).jpg)
-- Weeks 7-8: "A displaced family," United Ukrainian American Relief Committee (1949-1950). [University of Minnesota Immigration History Research Center Archives](http://purl.umn.edu/67571)
+- Weeks 7-8: "A large sign reading 'I am an American' placed in the window of a store," Dorothea Lange (1942). [Library of Congress Prints and Photographs Division](https://www.loc.gov/item/2004665381/) 
 - Weeks 9-11: "President Lyndon B. Johnson Signing of the Immigration Act of 1965," Public Domain (1965) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:President_Lyndon_B._Johnson_Signing_of_the_Immigration_Act_of_1965_(02)_-_restoration1.jpg) 
 - Weeks 12-15: Jonathan McIntosh - Own work, CC BY 2.5, (2006) via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:May_Day_Immigration_March_LA03.jpg)
 
